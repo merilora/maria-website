@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Maria Laura Filippetti</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Maria Laura Filippetti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Content tagged as &#39;Academic&#39;</title>
+      <link>/tags/academic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/academic/</guid>
+      <description>Here is a list of all the content that has been tagged as academic.</description>
+    </item>
+    
+    <item>
+      <title>Body-awareness</title>
+      <link>/tags/body-awareness/</link>
+      <pubDate>Wed, 27 Apr 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/body-awareness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eating-behaviour</title>
+      <link>/tags/eating-behaviour/</link>
+      <pubDate>Wed, 27 Apr 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/eating-behaviour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-recognition</title>
+      <link>/tags/self-recognition/</link>
+      <pubDate>Wed, 27 Apr 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/self-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tactile-interactions</title>
+      <link>/tags/tactile-interactions/</link>
+      <pubDate>Wed, 27 Apr 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/tactile-interactions/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

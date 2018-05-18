@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tactile-interactions on Maria Laura Filippetti</title>
+    <link>/tags/tactile-interactions/</link>
+    <description>Recent content in Tactile-interactions on Maria Laura Filippetti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2011 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/tactile-interactions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tactile interactions</title>
+      <link>/project/tactile-interactions/</link>
+      <pubDate>Wed, 27 Apr 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/project/tactile-interactions/</guid>
+      <description>Research on the benefits of touch for babies has shown its importance for premature infants and, more generally, for the early social and cognitive development. More recently, studies have found that touch seems to be very important in the way we come to understand that our body has boundaries and is different from other people’s bodies. The development of this function has been studied in adults but there has not been much research on the brain basis of body perception in babies.</description>
+    </item>
+    
+  </channel>
+</rss>

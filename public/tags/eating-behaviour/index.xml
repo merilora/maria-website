@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eating-behaviour on Maria Laura Filippetti</title>
+    <link>/tags/eating-behaviour/</link>
+    <description>Recent content in Eating-behaviour on Maria Laura Filippetti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2011 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/eating-behaviour/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Eating behaviour</title>
+      <link>/project/eating-behaviour/</link>
+      <pubDate>Wed, 27 Apr 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/project/eating-behaviour/</guid>
+      <description>Unlike other species, human babies enter the world completely dependent on their caregivers to manage their needs. For example, during feeding parental behaviour can influence the development of infants’ ability to sense their hunger and satiety signals. Parental feeding style can influence children eating habits, however little is known about the interaction between infant’s sensitivity to hunger states and parental influences in predicting eating behaviour later in life. I am interested in understanding the relationship between eating behavior in caregivers and infants’ ability to promptly identify and correctly interpret their infants’ cues.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Maria Laura Filippetti</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Maria Laura Filippetti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2011 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Body awareness</title>
+      <link>/project/body-awareness/</link>
+      <pubDate>Wed, 27 Apr 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/project/body-awareness/</guid>
+      <description>What makes your body your own? How do babies learn to distinguish between their own and other people&amp;rsquo;s bodies? The purpose of this research is to study how human beings develop an integrated sense of self that is grounded to a coherent body, and how different processes interact together to maintain and updated body awareness. While my work focuses on infancy and childhood, I am also interested in adults&amp;rsquo; body awareness.</description>
+    </item>
+    
+    <item>
+      <title>Eating behaviour</title>
+      <link>/project/eating-behaviour/</link>
+      <pubDate>Wed, 27 Apr 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/project/eating-behaviour/</guid>
+      <description>Unlike other species, human babies enter the world completely dependent on their caregivers to manage their needs. For example, during feeding parental behaviour can influence the development of infants’ ability to sense their hunger and satiety signals. Parental feeding style can influence children eating habits, however little is known about the interaction between infant’s sensitivity to hunger states and parental influences in predicting eating behaviour later in life. I am interested in understanding the relationship between eating behavior in caregivers and infants’ ability to promptly identify and correctly interpret their infants’ cues.</description>
+    </item>
+    
+    <item>
+      <title>Self recognition</title>
+      <link>/project/self-recognition/</link>
+      <pubDate>Wed, 27 Apr 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/project/self-recognition/</guid>
+      <description>The ability to recognize one’s face is considered a fundamental aspect within the spectrum of selfhood. However, what is believed to be the most representative instance of personal identity is probably the less reliable representation of the self; the rather infrequent encounters we have with our own face are in fact mediated by a reflecting surface and likely distorted by a variety of expectations shaped by ourselves and others. How do we balance this information in order to maintain a contentment and stable mental representation of our own identity?</description>
+    </item>
+    
+    <item>
+      <title>Tactile interactions</title>
+      <link>/project/tactile-interactions/</link>
+      <pubDate>Wed, 27 Apr 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/project/tactile-interactions/</guid>
+      <description>Research on the benefits of touch for babies has shown its importance for premature infants and, more generally, for the early social and cognitive development. More recently, studies have found that touch seems to be very important in the way we come to understand that our body has boundaries and is different from other people’s bodies. The development of this function has been studied in adults but there has not been much research on the brain basis of body perception in babies.</description>
+    </item>
+    
+  </channel>
+</rss>
