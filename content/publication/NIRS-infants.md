@@ -1,4 +1,4 @@
-+++
+
 title = "Neural mechanisms of body awareness in infants"
 date = 2014-09-01T00:00:00
 
