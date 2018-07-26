@@ -14,6 +14,7 @@ weight = 50
 
 # Information
 +++
+
 If you're interested in my research work and would like to work on infant and child development, The University of Essex offers several options:
 
 1. [The Research Experience Scheme] (RES) (https://www.essex.ac.uk/departments/psychology/research-experience-scheme) is aimed to students who have an interest in gaining research experience. The scheme gives you the opportunity to work with us on an ongoing research project for one term.
