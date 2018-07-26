@@ -1,4 +1,4 @@
-+++
+
 title = "Five-Month-old Infants' Discrimination of Visual-Tactile Synchronous Facial Stimulation"
 date = 2016-09-01T00:00:00
 
