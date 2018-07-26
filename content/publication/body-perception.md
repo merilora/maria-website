@@ -1,4 +1,4 @@
-+++title = "Body perception in newborns"
+title = "Body perception in newborns"
 date = "2013-11-01T00:00:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
