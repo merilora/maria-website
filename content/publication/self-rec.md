@@ -1,4 +1,4 @@
-+++
+
 title = "Just before I recognize myself: the role of featural and multisensory cues leading up to explicit mirror self-recognition"
 date = "2018-01-01T00:00:00"
 
