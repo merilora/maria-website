@@ -1,4 +1,4 @@
-+++
+
 title = "The Mindedness of Maternal Touch: An Investigation of Maternal Mind-Mindedness and Mother-Infant Touch Interactions"
 date = "2018-02-01T00:00:00"
 
