@@ -44,7 +44,3 @@ Maria Laura joined the Department of Psychology of University of Essex in Autumn
 
 At the University of Essex, Maria Laura is part of the [Essex Babylab] (http://www.babylabessex.wordpress.com), where she researches the development of body awareness, self-recognition, and appetitive tendencies using a variety of psychophysiological and behavioural techniques.
 
-
-
-=======
->>>>>>> dbe1d578326b17812e5be03d0946c96de8229792
