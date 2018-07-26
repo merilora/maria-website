@@ -41,3 +41,5 @@ Maria Laura completed her undergraduate and master degrees in Developmental and 
 
 Maria Laura's first post-doctoral position at [Royal Holloway University of London] (http://manostsakiris.com) focused on the interaction between interoceptive and exteroceptive body-related signals in the development of body-awareness in infants and adults. In 2016, she moved to [University College London] (http://www.fotopoulou.com) to further her expertise on self- and body-awareness across the lifespan, with a specific focus on affective touch.
 Maria Laura joined the Department of Psychology of University of Essex in Autumn 2017 as a lecturer. 
+
+At the University of Essex, Maria Laura is part of the [Essex Babylab] (http://www.babylabessex.wordpress.com), where she researches the development of body awareness, self-recognition, and appetitive tendencies using a variety of psychophysiological and behavioural techniques.
