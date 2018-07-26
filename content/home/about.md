@@ -43,7 +43,7 @@ Maria Laura's first post-doctoral position at [Royal Holloway University of Lond
 Maria Laura joined the Department of Psychology of University of Essex in Autumn 2017 as a lecturer. 
 
 At the University of Essex, Maria Laura is part of the [Essex Babylab] (http://www.babylabessex.wordpress.com), where she researches the development of body awareness, self-recognition, and appetitive tendencies using a variety of psychophysiological and behavioural techniques.
-<<<<<<< HEAD
+
 
 
 =======
