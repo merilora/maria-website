@@ -1,6 +1,6 @@
-
++++
 title = "Affective touch enhances self-face recognition during multisensory integration"
-date = 2017-09-01T00:00:00
+date = "2017-09-01T00:00:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Panagiotopoulou E", "**Filippetti ML**","Tsakiris M", "Fotopoulou A"]
