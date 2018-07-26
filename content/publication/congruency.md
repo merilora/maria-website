@@ -1,4 +1,4 @@
-+++
+
 title = "Newborn Body Perception: Sensitivity to Spatial Congruency"
 date = "2015-04-01T00:00:00"
 
