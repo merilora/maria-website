@@ -1,4 +1,4 @@
-+++
+
 title = "Affective touch enhances self-face recognition during multisensory integration"
 date = "2017-09-01T00:00:00"
 
