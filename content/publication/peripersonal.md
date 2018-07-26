@@ -1,4 +1,4 @@
-+++
+
 title = "Trajectory Discrimination and Peripersonal Space Perception in Newborns"
 date = 2018-01-05T00:00:00
 
