@@ -1,4 +1,4 @@
-+++
+
 title = "Heartfelt embodiment: Changes in body-ownership and self-identification produce distinct changes in interoceptive accuracy"
 date = 2017-10-01T00:00:00
 
