@@ -1,6 +1,6 @@
 
-title = "Five-Month-old Infants' Discrimination of Visual-Tactile Synchronous Facial Stimulation"
-date = 2016-09-01T00:00:00
++++title = "Five-Month-old Infants' Discrimination of Visual-Tactile Synchronous Facial Stimulation"
+date = "2016-09-01T00:00:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["**Filippetti ML**","Farroni T", "Johnson MH"]
