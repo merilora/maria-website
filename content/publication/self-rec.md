@@ -58,5 +58,4 @@ highlight = true
 image = ""
 caption = ""
 
-+++
 

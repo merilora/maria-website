@@ -58,4 +58,7 @@ highlight = true
 image = ""
 caption = ""
 
+<<<<<<< HEAD
 +++
+=======
+>>>>>>> dbe1d578326b17812e5be03d0946c96de8229792
