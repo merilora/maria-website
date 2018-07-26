@@ -20,4 +20,4 @@ If you're interested in my research work and would like to work on infant and ch
 2. [Frontrunners] (https://www1.essex.ac.uk/frontrunners/) is the University of Essex paid placement scheme that gives students the opportunity to gain work experience
 3. The [Undergraduate Research Opportunities Programme] (https://www1.essex.ac.uk/urop/) (UROP)  is a placement scheme specifically aimed at undergraduate students who would like to gain first-hand research experience.
  
-
+Please get in touch if you want to discuss possible PhD opportunities.
