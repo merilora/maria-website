@@ -1,6 +1,6 @@
-
++++
 title = "Heartfelt embodiment: Changes in body-ownership and self-identification produce distinct changes in interoceptive accuracy"
-date = 2017-10-01T00:00:00
+date = "2017-10-01T00:00:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["**Filippetti ML**","Tsakiris M"]
