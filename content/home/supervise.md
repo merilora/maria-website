@@ -1,20 +1,18 @@
 +++
-# Supervision widget.
-# This widget displays recent posts from `content/supervision/`.
-widget = "supervision"
+# Custom widget.
+# An example of using the custom widget to create your own homepage section.
+# To create more sections, duplicate this file and edit the values below as desired.
+widget = "custom"
+active = true
+date = 2016-04-20T00:00:00
 
-active = false
-
-date = "2016-04-20T00:00:00"
-
+# Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Supervision"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 50
+weight = 60
 
-
-# Information
 +++
 
 If you're interested in my research work and would like to work on infant and child development, The University of Essex offers several options:
@@ -24,3 +22,5 @@ If you're interested in my research work and would like to work on infant and ch
 3. The [Undergraduate Research Opportunities Programme] (https://www1.essex.ac.uk/urop/) (UROP)  is a placement scheme specifically aimed at undergraduate students who would like to gain first-hand research experience.
  
 Please get in touch if you want to discuss possible PhD opportunities.
+
+
