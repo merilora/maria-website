@@ -1,6 +1,6 @@
-+++
+
 title = "Neural mechanisms of body awareness in infants"
-date = 2014-09-01T00:00:00
+date = "2014-09-01T00:00:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["**Filippetti ML**","Lloyd-Fox S", "Longo MR", "Farroni T", "Johnson MH"]
@@ -57,7 +57,10 @@ highlight = true
 [header]
 image = ""
 caption = ""
+<<<<<<< HEAD
 
 +++
 
 More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
+=======
+>>>>>>> da7ad08775b8fbd9659f2d32503f5e30ebda2387

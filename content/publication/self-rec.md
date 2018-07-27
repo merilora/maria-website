@@ -1,6 +1,6 @@
-+++
+
 title = "Just before I recognize myself: the role of featural and multisensory cues leading up to explicit mirror self-recognition"
-date = 2018-01-01T00:00:00
+date = "2018-01-01T00:00:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["**Filippetti ML**","Tsakiris M"]

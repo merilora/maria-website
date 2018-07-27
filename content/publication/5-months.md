@@ -1,6 +1,5 @@
-+++
 title = "Five-Month-old Infants' Discrimination of Visual-Tactile Synchronous Facial Stimulation"
-date = 2016-09-01T00:00:00
+date = "2016-09-01T00:00:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["**Filippetti ML**","Farroni T", "Johnson MH"]
@@ -58,6 +57,9 @@ highlight = true
 image = ""
 caption = ""
 
+<<<<<<< HEAD
 +++
 
 More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
+=======
+>>>>>>> da7ad08775b8fbd9659f2d32503f5e30ebda2387

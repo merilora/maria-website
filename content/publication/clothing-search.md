@@ -1,6 +1,9 @@
-+++
 title = "Body perception in newborns"
+<<<<<<< HEAD:content/publication/clothing-search.md
 date = 2013-07-01T00:00:00
+=======
+date = "2013-11-01T00:00:00"
+>>>>>>> da7ad08775b8fbd9659f2d32503f5e30ebda2387:content/publication/body-perception.md
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["**Filippetti ML**", "Johnson MH", "Lloyd-Fox S", "Dragovic D", "Farroni T"]
@@ -60,7 +63,10 @@ highlight = true
 [header]
 image = ""
 caption = ""
+<<<<<<< HEAD:content/publication/clothing-search.md
 
 +++
 
 More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
+=======
+>>>>>>> da7ad08775b8fbd9659f2d32503f5e30ebda2387:content/publication/body-perception.md

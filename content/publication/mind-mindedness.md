@@ -1,6 +1,6 @@
-+++
+
 title = "The Mindedness of Maternal Touch: An Investigation of Maternal Mind-Mindedness and Mother-Infant Touch Interactions"
-date = 2018-02-01T00:00:00
+date = "2018-02-01T00:00:00"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Crucianelli L", "Wheatley L", "**Filippetti ML**", "Jenkinson P", "Kirk E", "Fotopoulou A"]
@@ -58,6 +58,9 @@ highlight = true
 image = ""
 caption = ""
 
+<<<<<<< HEAD
 +++
 
 More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
+=======
+>>>>>>> da7ad08775b8fbd9659f2d32503f5e30ebda2387
