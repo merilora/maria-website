@@ -1,6 +1,6 @@
 
 title = "Heartfelt embodiment: Changes in body-ownership and self-identification produce distinct changes in interoceptive accuracy"
-date = "2017-10-01T00:00:00"
+date = "2017-10-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["**Filippetti ML**","Tsakiris M"]
@@ -50,10 +50,11 @@ url_source = ""
 math = true
 
 # Does the content use source code highlighting?
-highlight = true
+highlight = false
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = ""
 caption = ""
+

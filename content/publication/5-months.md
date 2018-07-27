@@ -1,5 +1,6 @@
+
 title = "Five-Month-old Infants' Discrimination of Visual-Tactile Synchronous Facial Stimulation"
-date = "2016-09-01T00:00:00"
+date = "2016-09-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["**Filippetti ML**","Farroni T", "Johnson MH"]
@@ -49,11 +50,10 @@ url_source = ""
 math = true
 
 # Does the content use source code highlighting?
-highlight = true
+highlight = false
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = ""
 caption = ""
-

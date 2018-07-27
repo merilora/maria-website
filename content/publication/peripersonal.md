@@ -1,6 +1,6 @@
 
 title = "Trajectory Discrimination and Peripersonal Space Perception in Newborns"
-date = "2018-01-05T00:00:00"
+date = "2018-01-05"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Orioli G", "**Filippetti ML**", "Gerbino W", "Dragovic D", "Farroni T"]
@@ -57,4 +57,3 @@ highlight = false
 [header]
 image = ""
 caption = ""
-

@@ -1,8 +1,8 @@
+
 title = "Body perception in newborns"
+date = "2013-07-01T00:00:00""
 
-date = "2013-11-01T00:00:00"
 
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["**Filippetti ML**", "Johnson MH", "Lloyd-Fox S", "Dragovic D", "Farroni T"]
 
 # Publication type.
@@ -45,15 +45,11 @@ url_video = ""
 url_poster = ""
 url_source = ""
 
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#url_custom = [{name = "Custom Link", url = "http://example.org"}]
-
 # Does the content use math formatting?
 math = true
 
 # Does the content use source code highlighting?
-highlight = true
+highlight = false
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.

@@ -5,6 +5,42 @@
     
     <url>
     
+      <loc>/publication/new/</loc>
+      <lastmod>2018-12-20T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/new-persp/</loc>
+      <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/new-peripersonal/</loc>
+      <lastmod>2018-01-05T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/new-identification/</loc>
+      <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -115,23 +151,9 @@
     
     <url>
     
-      <loc>/publication/person-re-identification/</loc>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication/perspectives/</loc>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication/self-rec/</loc>
+      <loc>/publication_types/2/</loc>
+      <lastmod>2018-12-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -189,6 +211,7 @@
     <url>
     
       <loc>/publication_types/</loc>
+      <lastmod>2018-12-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

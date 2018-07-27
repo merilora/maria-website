@@ -11,6 +11,42 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Just before I recognize myself: the role of featural and multisensory cues leading up to explicit mirror self-recognition</title>
+      <link>/publication/new/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developmental perspectives on interpersonal affective touch</title>
+      <link>/publication/new-persp/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/new-persp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trajectory Discrimination and Peripersonal Space Perception in Newborns</title>
+      <link>/publication/new-peripersonal/</link>
+      <pubDate>Fri, 05 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/new-peripersonal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Affective touch enhances self-face recognition during multisensory integration</title>
+      <link>/publication/new-identification/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/new-identification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Body awareness</title>
       <link>/project/body-awareness/</link>
       <pubDate>Wed, 27 Apr 2011 00:00:00 +0100</pubDate>
@@ -60,7 +96,7 @@ The purpose of this research is to study how human beings develop an integrated 
       <description>
 
 &lt;p&gt;title = &amp;ldquo;Five-Month-old Infants&amp;rsquo; Discrimination of Visual-Tactile Synchronous Facial Stimulation&amp;rdquo;
-date = &amp;ldquo;2016-09-01T00:00:00&amp;rdquo;&lt;/p&gt;
+date = &amp;ldquo;2016-09-01&amp;rdquo;&lt;/p&gt;
 
 &lt;h1 id=&#34;authors-comma-separated-list-e-g-bob-smith-david-jones&#34;&gt;Authors. Comma separated list, e.g. &lt;code&gt;[&amp;quot;Bob Smith&amp;quot;, &amp;quot;David Jones&amp;quot;]&lt;/code&gt;.&lt;/h1&gt;
 
@@ -130,7 +166,7 @@ url_source = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
 
 &lt;h1 id=&#34;does-the-content-use-source-code-highlighting&#34;&gt;Does the content use source code highlighting?&lt;/h1&gt;
 
-&lt;p&gt;highlight = true&lt;/p&gt;
+&lt;p&gt;highlight = false&lt;/p&gt;
 
 &lt;h1 id=&#34;featured-image&#34;&gt;Featured image&lt;/h1&gt;
 
@@ -151,7 +187,7 @@ caption = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
       <description>
 
 &lt;p&gt;title = &amp;ldquo;Neural mechanisms of body awareness in infants&amp;rdquo;
-date = &amp;ldquo;2014-09-01T00:00:00&amp;rdquo;&lt;/p&gt;
+date = &amp;ldquo;2014-09-01&amp;rdquo;&lt;/p&gt;
 
 &lt;h1 id=&#34;authors-comma-separated-list-e-g-bob-smith-david-jones&#34;&gt;Authors. Comma separated list, e.g. &lt;code&gt;[&amp;quot;Bob Smith&amp;quot;, &amp;quot;David Jones&amp;quot;]&lt;/code&gt;.&lt;/h1&gt;
 
@@ -241,11 +277,8 @@ caption = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
       <guid>/publication/clothing-search/</guid>
       <description>
 
-&lt;p&gt;title = &amp;ldquo;Body perception in newborns&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;date = &amp;ldquo;2013-11-01T00:00:00&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;authors-comma-separated-list-e-g-bob-smith-david-jones&#34;&gt;Authors. Comma separated list, e.g. &lt;code&gt;[&amp;quot;Bob Smith&amp;quot;, &amp;quot;David Jones&amp;quot;]&lt;/code&gt;.&lt;/h1&gt;
+&lt;p&gt;title = &amp;ldquo;Body perception in newborns&amp;rdquo;
+date = &amp;ldquo;2013-07-01T00:00:00&amp;rdquo;&amp;rdquo;&lt;/p&gt;
 
 &lt;p&gt;authors = [&amp;rdquo;&lt;strong&gt;Filippetti ML&lt;/strong&gt;&amp;rdquo;, &amp;ldquo;Johnson MH&amp;rdquo;, &amp;ldquo;Lloyd-Fox S&amp;rdquo;, &amp;ldquo;Dragovic D&amp;rdquo;, &amp;ldquo;Farroni T&amp;rdquo;]&lt;/p&gt;
 
@@ -306,19 +339,13 @@ url_video = &amp;ldquo;&amp;rdquo;
 url_poster = &amp;ldquo;&amp;rdquo;
 url_source = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
 
-&lt;h1 id=&#34;custom-links-optional&#34;&gt;Custom links (optional).&lt;/h1&gt;
-
-&lt;h1 id=&#34;uncomment-line-below-to-enable-for-multiple-links-use-the-form&#34;&gt;Uncomment line below to enable. For multiple links, use the form &lt;code&gt;[{...}, {...}, {...}]&lt;/code&gt;.&lt;/h1&gt;
-
-&lt;p&gt;#url_custom = [{name = &amp;ldquo;Custom Link&amp;rdquo;, url = &amp;ldquo;&lt;a href=&#34;http://example.org&amp;quot;}&#34; target=&#34;_blank&#34;&gt;http://example.org&amp;quot;}&lt;/a&gt;]&lt;/p&gt;
-
 &lt;h1 id=&#34;does-the-content-use-math-formatting&#34;&gt;Does the content use math formatting?&lt;/h1&gt;
 
 &lt;p&gt;math = true&lt;/p&gt;
 
 &lt;h1 id=&#34;does-the-content-use-source-code-highlighting&#34;&gt;Does the content use source code highlighting?&lt;/h1&gt;
 
-&lt;p&gt;highlight = true&lt;/p&gt;
+&lt;p&gt;highlight = false&lt;/p&gt;
 
 &lt;h1 id=&#34;featured-image&#34;&gt;Featured image&lt;/h1&gt;
 
@@ -409,7 +436,7 @@ url_source = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
 
 &lt;h1 id=&#34;does-the-content-use-source-code-highlighting&#34;&gt;Does the content use source code highlighting?&lt;/h1&gt;
 
-&lt;p&gt;highlight = true&lt;/p&gt;
+&lt;p&gt;highlight = false&lt;/p&gt;
 
 &lt;h1 id=&#34;featured-image&#34;&gt;Featured image&lt;/h1&gt;
 
@@ -430,7 +457,7 @@ caption = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
       <description>
 
 &lt;p&gt;title = &amp;ldquo;Heartfelt embodiment: Changes in body-ownership and self-identification produce distinct changes in interoceptive accuracy&amp;rdquo;
-date = &amp;ldquo;2017-10-01T00:00:00&amp;rdquo;&lt;/p&gt;
+date = &amp;ldquo;2017-10-01&amp;rdquo;&lt;/p&gt;
 
 &lt;h1 id=&#34;authors-comma-separated-list-e-g-bob-smith-david-jones&#34;&gt;Authors. Comma separated list, e.g. &lt;code&gt;[&amp;quot;Bob Smith&amp;quot;, &amp;quot;David Jones&amp;quot;]&lt;/code&gt;.&lt;/h1&gt;
 
@@ -500,7 +527,7 @@ url_source = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
 
 &lt;h1 id=&#34;does-the-content-use-source-code-highlighting&#34;&gt;Does the content use source code highlighting?&lt;/h1&gt;
 
-&lt;p&gt;highlight = true&lt;/p&gt;
+&lt;p&gt;highlight = false&lt;/p&gt;
 
 &lt;h1 id=&#34;featured-image&#34;&gt;Featured image&lt;/h1&gt;
 
@@ -521,7 +548,7 @@ caption = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
       <description>
 
 &lt;p&gt;title = &amp;ldquo;The Mindedness of Maternal Touch: An Investigation of Maternal Mind-Mindedness and Mother-Infant Touch Interactions&amp;rdquo;
-date = &amp;ldquo;2018-02-01T00:00:00&amp;rdquo;&lt;/p&gt;
+date = &amp;ldquo;2018-02-01&amp;rdquo;&lt;/p&gt;
 
 &lt;h1 id=&#34;authors-comma-separated-list-e-g-bob-smith-david-jones&#34;&gt;Authors. Comma separated list, e.g. &lt;code&gt;[&amp;quot;Bob Smith&amp;quot;, &amp;quot;David Jones&amp;quot;]&lt;/code&gt;.&lt;/h1&gt;
 
@@ -612,7 +639,7 @@ caption = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
       <description>
 
 &lt;p&gt;title = &amp;ldquo;Trajectory Discrimination and Peripersonal Space Perception in Newborns&amp;rdquo;
-date = &amp;ldquo;2018-01-05T00:00:00&amp;rdquo;&lt;/p&gt;
+date = &amp;ldquo;2018-01-05&amp;rdquo;&lt;/p&gt;
 
 &lt;h1 id=&#34;authors-comma-separated-list-e-g-bob-smith-david-jones&#34;&gt;Authors. Comma separated list, e.g. &lt;code&gt;[&amp;quot;Bob Smith&amp;quot;, &amp;quot;David Jones&amp;quot;]&lt;/code&gt;.&lt;/h1&gt;
 
@@ -667,279 +694,6 @@ abstract_short = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
 &lt;h1 id=&#34;links-optional&#34;&gt;Links (optional).&lt;/h1&gt;
 
 &lt;p&gt;url_pdf = &amp;ldquo;&lt;a href=&#34;http://repository.essex.ac.uk/20465/&amp;quot;&#34; target=&#34;_blank&#34;&gt;http://repository.essex.ac.uk/20465/&amp;quot;&lt;/a&gt;
-url_preprint = &amp;ldquo;&amp;rdquo;
-url_code = &amp;ldquo;&amp;rdquo;
-url_dataset = &amp;ldquo;&amp;rdquo;
-url_project = &amp;ldquo;&amp;rdquo;
-url_slides = &amp;ldquo;&amp;rdquo;
-url_video = &amp;ldquo;&amp;rdquo;
-url_poster = &amp;ldquo;&amp;rdquo;
-url_source = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;does-the-content-use-math-formatting&#34;&gt;Does the content use math formatting?&lt;/h1&gt;
-
-&lt;p&gt;math = true&lt;/p&gt;
-
-&lt;h1 id=&#34;does-the-content-use-source-code-highlighting&#34;&gt;Does the content use source code highlighting?&lt;/h1&gt;
-
-&lt;p&gt;highlight = false&lt;/p&gt;
-
-&lt;h1 id=&#34;featured-image&#34;&gt;Featured image&lt;/h1&gt;
-
-&lt;h1 id=&#34;place-your-image-in-the-static-img-folder-and-reference-its-filename-below-e-g-image-example-jpg&#34;&gt;Place your image in the &lt;code&gt;static/img/&lt;/code&gt; folder and reference its filename below, e.g. &lt;code&gt;image = &amp;quot;example.jpg&amp;quot;&lt;/code&gt;.&lt;/h1&gt;
-
-&lt;p&gt;[header]
-image = &amp;ldquo;&amp;rdquo;
-caption = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/publication/person-re-identification/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/person-re-identification/</guid>
-      <description>
-
-&lt;p&gt;title = &amp;ldquo;Affective touch enhances self-face recognition during multisensory integration&amp;rdquo;
-date = &amp;ldquo;2017-09-01T00:00:00&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;authors-comma-separated-list-e-g-bob-smith-david-jones&#34;&gt;Authors. Comma separated list, e.g. &lt;code&gt;[&amp;quot;Bob Smith&amp;quot;, &amp;quot;David Jones&amp;quot;]&lt;/code&gt;.&lt;/h1&gt;
-
-&lt;p&gt;authors = [&amp;ldquo;Panagiotopoulou E&amp;rdquo;, &amp;ldquo;&lt;strong&gt;Filippetti ML&lt;/strong&gt;&amp;rdquo;,&amp;ldquo;Tsakiris M&amp;rdquo;, &amp;ldquo;Fotopoulou A&amp;rdquo;]&lt;/p&gt;
-
-&lt;h1 id=&#34;publication-type&#34;&gt;Publication type.&lt;/h1&gt;
-
-&lt;h1 id=&#34;legend&#34;&gt;Legend:&lt;/h1&gt;
-
-&lt;h1 id=&#34;0-uncategorized&#34;&gt;0 = Uncategorized&lt;/h1&gt;
-
-&lt;h1 id=&#34;1-conference-proceedings&#34;&gt;1 = Conference proceedings&lt;/h1&gt;
-
-&lt;h1 id=&#34;2-journal&#34;&gt;2 = Journal&lt;/h1&gt;
-
-&lt;h1 id=&#34;3-work-in-progress&#34;&gt;3 = Work in progress&lt;/h1&gt;
-
-&lt;h1 id=&#34;4-technical-report&#34;&gt;4 = Technical report&lt;/h1&gt;
-
-&lt;h1 id=&#34;5-book&#34;&gt;5 = Book&lt;/h1&gt;
-
-&lt;h1 id=&#34;6-book-chapter&#34;&gt;6 = Book chapter&lt;/h1&gt;
-
-&lt;p&gt;publication_types = [&amp;ldquo;2&amp;rdquo;]&lt;/p&gt;
-
-&lt;h1 id=&#34;publication-name-and-optional-abbreviated-version&#34;&gt;Publication name and optional abbreviated version.&lt;/h1&gt;
-
-&lt;p&gt;publication = &amp;ldquo;In &lt;em&gt;Scientific Reports&lt;/em&gt;&amp;ldquo;
-#publication_short = &amp;ldquo;In &lt;em&gt;SITIS&lt;/em&gt;&amp;ldquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;abstract-and-optional-shortened-version&#34;&gt;Abstract and optional shortened version.&lt;/h1&gt;
-
-&lt;p&gt;abstract = &amp;ldquo;&amp;rdquo;
-abstract_short = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;featured-image-thumbnail-optional&#34;&gt;Featured image thumbnail (optional)&lt;/h1&gt;
-
-&lt;p&gt;image_preview = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;is-this-a-selected-publication-true-false&#34;&gt;Is this a selected publication? (true/false)&lt;/h1&gt;
-
-&lt;p&gt;#selected = false&lt;/p&gt;
-
-&lt;h1 id=&#34;projects-optional&#34;&gt;Projects (optional).&lt;/h1&gt;
-
-&lt;h1 id=&#34;associate-this-publication-with-one-or-more-of-your-projects&#34;&gt;Associate this publication with one or more of your projects.&lt;/h1&gt;
-
-&lt;h1 id=&#34;simply-enter-the-filename-excluding-md-of-your-project-file-in-content-project&#34;&gt;Simply enter the filename (excluding &amp;lsquo;.md&amp;rsquo;) of your project file in &lt;code&gt;content/project/&lt;/code&gt;.&lt;/h1&gt;
-
-&lt;p&gt;projects = [&amp;ldquo;self-recognition&amp;rdquo;, &amp;ldquo;tactile-interactions&amp;rdquo;]&lt;/p&gt;
-
-&lt;h1 id=&#34;links-optional&#34;&gt;Links (optional).&lt;/h1&gt;
-
-&lt;p&gt;url_pdf = &amp;ldquo;&lt;a href=&#34;http://repository.essex.ac.uk/20488/&amp;quot;&#34; target=&#34;_blank&#34;&gt;http://repository.essex.ac.uk/20488/&amp;quot;&lt;/a&gt;
-url_preprint = &amp;ldquo;&amp;rdquo;
-url_code = &amp;ldquo;&amp;rdquo;
-url_dataset = &amp;ldquo;&amp;rdquo;
-url_project = &amp;ldquo;&amp;rdquo;
-url_slides = &amp;ldquo;&amp;rdquo;
-url_video = &amp;ldquo;&amp;rdquo;
-url_poster = &amp;ldquo;&amp;rdquo;
-url_source = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;does-the-content-use-math-formatting&#34;&gt;Does the content use math formatting?&lt;/h1&gt;
-
-&lt;p&gt;math = true&lt;/p&gt;
-
-&lt;h1 id=&#34;does-the-content-use-source-code-highlighting&#34;&gt;Does the content use source code highlighting?&lt;/h1&gt;
-
-&lt;p&gt;highlight = false&lt;/p&gt;
-
-&lt;h1 id=&#34;featured-image&#34;&gt;Featured image&lt;/h1&gt;
-
-&lt;h1 id=&#34;place-your-image-in-the-static-img-folder-and-reference-its-filename-below-e-g-image-example-jpg&#34;&gt;Place your image in the &lt;code&gt;static/img/&lt;/code&gt; folder and reference its filename below, e.g. &lt;code&gt;image = &amp;quot;example.jpg&amp;quot;&lt;/code&gt;.&lt;/h1&gt;
-
-&lt;p&gt;[header]
-image = &amp;ldquo;&amp;rdquo;
-caption = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/publication/perspectives/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/perspectives/</guid>
-      <description>
-
-&lt;p&gt;title = &amp;ldquo;Developmental perspectives on interpersonal affective touch&amp;rdquo;
-date = &amp;ldquo;2018-05-01T00:00:00&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;authors-comma-separated-list-e-g-bob-smith-david-jones&#34;&gt;Authors. Comma separated list, e.g. &lt;code&gt;[&amp;quot;Bob Smith&amp;quot;, &amp;quot;David Jones&amp;quot;]&lt;/code&gt;.&lt;/h1&gt;
-
-&lt;p&gt;authors = [&amp;ldquo;Crucianelli L&amp;rdquo;, &amp;ldquo;&lt;strong&gt;Filippetti ML&lt;/strong&gt;&amp;rdquo;]&lt;/p&gt;
-
-&lt;h1 id=&#34;publication-type&#34;&gt;Publication type.&lt;/h1&gt;
-
-&lt;h1 id=&#34;legend&#34;&gt;Legend:&lt;/h1&gt;
-
-&lt;h1 id=&#34;0-uncategorized&#34;&gt;0 = Uncategorized&lt;/h1&gt;
-
-&lt;h1 id=&#34;1-conference-proceedings&#34;&gt;1 = Conference proceedings&lt;/h1&gt;
-
-&lt;h1 id=&#34;2-journal&#34;&gt;2 = Journal&lt;/h1&gt;
-
-&lt;h1 id=&#34;3-work-in-progress&#34;&gt;3 = Work in progress&lt;/h1&gt;
-
-&lt;h1 id=&#34;4-technical-report&#34;&gt;4 = Technical report&lt;/h1&gt;
-
-&lt;h1 id=&#34;5-book&#34;&gt;5 = Book&lt;/h1&gt;
-
-&lt;h1 id=&#34;6-book-chapter&#34;&gt;6 = Book chapter&lt;/h1&gt;
-
-&lt;p&gt;publication_types = [&amp;ldquo;2&amp;rdquo;]&lt;/p&gt;
-
-&lt;h1 id=&#34;publication-name-and-optional-abbreviated-version&#34;&gt;Publication name and optional abbreviated version.&lt;/h1&gt;
-
-&lt;p&gt;publication = &amp;ldquo;In &lt;em&gt;Topoi&lt;/em&gt;&amp;ldquo;
-#publication_short = &amp;ldquo;In &lt;em&gt;SITIS&lt;/em&gt;&amp;ldquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;abstract-and-optional-shortened-version&#34;&gt;Abstract and optional shortened version.&lt;/h1&gt;
-
-&lt;p&gt;abstract = &amp;ldquo;&amp;rdquo;
-abstract_short = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;featured-image-thumbnail-optional&#34;&gt;Featured image thumbnail (optional)&lt;/h1&gt;
-
-&lt;p&gt;image_preview = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;is-this-a-selected-publication-true-false&#34;&gt;Is this a selected publication? (true/false)&lt;/h1&gt;
-
-&lt;p&gt;#selected = false&lt;/p&gt;
-
-&lt;h1 id=&#34;projects-optional&#34;&gt;Projects (optional).&lt;/h1&gt;
-
-&lt;h1 id=&#34;associate-this-publication-with-one-or-more-of-your-projects&#34;&gt;Associate this publication with one or more of your projects.&lt;/h1&gt;
-
-&lt;h1 id=&#34;simply-enter-the-filename-excluding-md-of-your-project-file-in-content-project&#34;&gt;Simply enter the filename (excluding &amp;lsquo;.md&amp;rsquo;) of your project file in &lt;code&gt;content/project/&lt;/code&gt;.&lt;/h1&gt;
-
-&lt;p&gt;projects = [&amp;ldquo;tactile-interactions&amp;rdquo;]&lt;/p&gt;
-
-&lt;h1 id=&#34;links-optional&#34;&gt;Links (optional).&lt;/h1&gt;
-
-&lt;p&gt;url_pdf = &amp;ldquo;&lt;a href=&#34;https://link.springer.com/article/10.1007%2Fs11245-018-9565-1&amp;quot;&#34; target=&#34;_blank&#34;&gt;https://link.springer.com/article/10.1007%2Fs11245-018-9565-1&amp;quot;&lt;/a&gt;
-url_preprint = &amp;ldquo;&amp;rdquo;
-url_code = &amp;ldquo;&amp;rdquo;
-url_dataset = &amp;ldquo;&amp;rdquo;
-url_project = &amp;ldquo;&amp;rdquo;
-url_slides = &amp;ldquo;&amp;rdquo;
-url_video = &amp;ldquo;&amp;rdquo;
-url_poster = &amp;ldquo;&amp;rdquo;
-url_source = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;does-the-content-use-math-formatting&#34;&gt;Does the content use math formatting?&lt;/h1&gt;
-
-&lt;p&gt;math = true&lt;/p&gt;
-
-&lt;h1 id=&#34;does-the-content-use-source-code-highlighting&#34;&gt;Does the content use source code highlighting?&lt;/h1&gt;
-
-&lt;p&gt;highlight = false&lt;/p&gt;
-
-&lt;h1 id=&#34;featured-image&#34;&gt;Featured image&lt;/h1&gt;
-
-&lt;h1 id=&#34;place-your-image-in-the-static-img-folder-and-reference-its-filename-below-e-g-image-example-jpg&#34;&gt;Place your image in the &lt;code&gt;static/img/&lt;/code&gt; folder and reference its filename below, e.g. &lt;code&gt;image = &amp;quot;example.jpg&amp;quot;&lt;/code&gt;.&lt;/h1&gt;
-
-&lt;p&gt;[header]
-image = &amp;ldquo;&amp;rdquo;
-caption = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/publication/self-rec/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/self-rec/</guid>
-      <description>
-
-&lt;p&gt;title = &amp;ldquo;Just before I recognize myself: the role of featural and multisensory cues leading up to explicit mirror self-recognition&amp;rdquo;
-date = &amp;ldquo;2018-01-01T00:00:00&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;authors-comma-separated-list-e-g-bob-smith-david-jones&#34;&gt;Authors. Comma separated list, e.g. &lt;code&gt;[&amp;quot;Bob Smith&amp;quot;, &amp;quot;David Jones&amp;quot;]&lt;/code&gt;.&lt;/h1&gt;
-
-&lt;p&gt;authors = [&amp;rdquo;&lt;strong&gt;Filippetti ML&lt;/strong&gt;&amp;rdquo;,&amp;ldquo;Tsakiris M&amp;rdquo;]&lt;/p&gt;
-
-&lt;h1 id=&#34;publication-type&#34;&gt;Publication type.&lt;/h1&gt;
-
-&lt;h1 id=&#34;legend&#34;&gt;Legend:&lt;/h1&gt;
-
-&lt;h1 id=&#34;0-uncategorized&#34;&gt;0 = Uncategorized&lt;/h1&gt;
-
-&lt;h1 id=&#34;1-conference-proceedings&#34;&gt;1 = Conference proceedings&lt;/h1&gt;
-
-&lt;h1 id=&#34;2-journal&#34;&gt;2 = Journal&lt;/h1&gt;
-
-&lt;h1 id=&#34;3-work-in-progress&#34;&gt;3 = Work in progress&lt;/h1&gt;
-
-&lt;h1 id=&#34;4-technical-report&#34;&gt;4 = Technical report&lt;/h1&gt;
-
-&lt;h1 id=&#34;5-book&#34;&gt;5 = Book&lt;/h1&gt;
-
-&lt;h1 id=&#34;6-book-chapter&#34;&gt;6 = Book chapter&lt;/h1&gt;
-
-&lt;p&gt;publication_types = [&amp;ldquo;2&amp;rdquo;]&lt;/p&gt;
-
-&lt;h1 id=&#34;publication-name-and-optional-abbreviated-version&#34;&gt;Publication name and optional abbreviated version.&lt;/h1&gt;
-
-&lt;p&gt;publication = &amp;ldquo;In &lt;em&gt;Infancy&lt;/em&gt;&amp;ldquo;
-#publication_short = &amp;ldquo;In &lt;em&gt;SITIS&lt;/em&gt;&amp;ldquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;abstract-and-optional-shortened-version&#34;&gt;Abstract and optional shortened version.&lt;/h1&gt;
-
-&lt;p&gt;abstract = &amp;ldquo;&amp;rdquo;
-abstract_short = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;featured-image-thumbnail-optional&#34;&gt;Featured image thumbnail (optional)&lt;/h1&gt;
-
-&lt;p&gt;image_preview = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;is-this-a-selected-publication-true-false&#34;&gt;Is this a selected publication? (true/false)&lt;/h1&gt;
-
-&lt;p&gt;#selected = false&lt;/p&gt;
-
-&lt;h1 id=&#34;projects-optional&#34;&gt;Projects (optional).&lt;/h1&gt;
-
-&lt;h1 id=&#34;associate-this-publication-with-one-or-more-of-your-projects&#34;&gt;Associate this publication with one or more of your projects.&lt;/h1&gt;
-
-&lt;h1 id=&#34;simply-enter-the-filename-excluding-md-of-your-project-file-in-content-project&#34;&gt;Simply enter the filename (excluding &amp;lsquo;.md&amp;rsquo;) of your project file in &lt;code&gt;content/project/&lt;/code&gt;.&lt;/h1&gt;
-
-&lt;p&gt;projects = [&amp;ldquo;self-recognition&amp;rdquo;]&lt;/p&gt;
-
-&lt;h1 id=&#34;links-optional&#34;&gt;Links (optional).&lt;/h1&gt;
-
-&lt;p&gt;url_pdf = &amp;ldquo;&lt;a href=&#34;http://repository.essex.ac.uk/21622/&amp;quot;&#34; target=&#34;_blank&#34;&gt;http://repository.essex.ac.uk/21622/&amp;quot;&lt;/a&gt;
 url_preprint = &amp;ldquo;&amp;rdquo;
 url_code = &amp;ldquo;&amp;rdquo;
 url_dataset = &amp;ldquo;&amp;rdquo;
