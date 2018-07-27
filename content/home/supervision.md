@@ -2,7 +2,7 @@
 # Supervision widget.
 # This widget displays recent posts from `content/supervision/`.
 widget = "supervision"
-active = true
+active = false
 
 date = "2016-04-20T00:00:00"
 
