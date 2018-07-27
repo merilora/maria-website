@@ -2,21 +2,21 @@
 abstract = ""
 
 authors = ["**Filippetti ML**","Tsakiris M"]
-date = "2018-12-20"
+date = "2017-10-01"
 image_preview = ""
 math = true
 publication_types = ["2"]
-publication = "In *Infancy*"
+publication = "In *Cognition*"
 publication_short = ""
 selected = false
-title = "Just before I recognize myself: the role of featural and multisensory cues leading up to explicit mirror self-recognition"
+title = "Heartfelt embodiment: Changes in body-ownership and self-identification produce distinct changes in interoceptive accuracy"
 url_code = ""
 url_dataset = ""
-url_pdf = "http://repository.essex.ac.uk/21622/"
+url_pdf = "http://repository.essex.ac.uk/20466/"
 url_project = ""
 url_slides = ""
 url_video = ""
-projects = ["self-recognition"]
+projects = ["body-awareness"]
 
 # Optional featured image (relative to `static/img/` folder).
 [header]

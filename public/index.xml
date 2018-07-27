@@ -29,6 +29,15 @@
     </item>
     
     <item>
+      <title>The Mindedness of Maternal Touch: An Investigation of Maternal Mind-Mindedness and Mother-Infant Touch Interactions</title>
+      <link>/publication/new-mm/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/new-mm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Trajectory Discrimination and Peripersonal Space Perception in Newborns</title>
       <link>/publication/new-peripersonal/</link>
       <pubDate>Fri, 05 Jan 2018 00:00:00 +0000</pubDate>
@@ -38,11 +47,56 @@
     </item>
     
     <item>
+      <title>Heartfelt embodiment: Changes in body-ownership and self-identification produce distinct changes in interoceptive accuracy</title>
+      <link>/publication/new-heartfelt/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/new-heartfelt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Affective touch enhances self-face recognition during multisensory integration</title>
       <link>/publication/new-identification/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>/publication/new-identification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Five-Month-old Infants&#39; Discrimination of Visual-Tactile Synchronous Facial Stimulation</title>
+      <link>/publication/new-5month/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/new-5month/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Newborn Body Perception: Sensitivity to Spatial Congruency</title>
+      <link>/publication/new-congruency/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/new-congruency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural mechanisms of body awareness in infants</title>
+      <link>/publication/new-nirs/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/new-nirs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Body perception in newborns</title>
+      <link>/publication/new-currbio/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/new-currbio/</guid>
       <description></description>
     </item>
     
@@ -84,640 +138,6 @@ The purpose of this research is to study how human beings develop an integrated 
       
       <guid>/project/tactile-interactions/</guid>
       <description>&lt;p&gt;Research on the benefits of touch for babies has shown its importance for premature infants and, more generally, for the early social and cognitive development. More recently, studies have found that touch seems to be very important in the way we come to understand that our body has boundaries and is different from other people’s bodies. The development of this function has been studied in adults but there has not been much research on the brain basis of body perception in babies. By using techniques such as fNIRS and eye tracker, we can better understand infants’ behaviour and brain development and compare it with what has been found in adults.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/publication/5-months/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/5-months/</guid>
-      <description>
-
-&lt;p&gt;title = &amp;ldquo;Five-Month-old Infants&amp;rsquo; Discrimination of Visual-Tactile Synchronous Facial Stimulation&amp;rdquo;
-date = &amp;ldquo;2016-09-01&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;authors-comma-separated-list-e-g-bob-smith-david-jones&#34;&gt;Authors. Comma separated list, e.g. &lt;code&gt;[&amp;quot;Bob Smith&amp;quot;, &amp;quot;David Jones&amp;quot;]&lt;/code&gt;.&lt;/h1&gt;
-
-&lt;p&gt;authors = [&amp;rdquo;&lt;strong&gt;Filippetti ML&lt;/strong&gt;&amp;rdquo;,&amp;ldquo;Farroni T&amp;rdquo;, &amp;ldquo;Johnson MH&amp;rdquo;]&lt;/p&gt;
-
-&lt;h1 id=&#34;publication-type&#34;&gt;Publication type.&lt;/h1&gt;
-
-&lt;h1 id=&#34;legend&#34;&gt;Legend:&lt;/h1&gt;
-
-&lt;h1 id=&#34;0-uncategorized&#34;&gt;0 = Uncategorized&lt;/h1&gt;
-
-&lt;h1 id=&#34;1-conference-proceedings&#34;&gt;1 = Conference proceedings&lt;/h1&gt;
-
-&lt;h1 id=&#34;2-journal&#34;&gt;2 = Journal&lt;/h1&gt;
-
-&lt;h1 id=&#34;3-work-in-progress&#34;&gt;3 = Work in progress&lt;/h1&gt;
-
-&lt;h1 id=&#34;4-technical-report&#34;&gt;4 = Technical report&lt;/h1&gt;
-
-&lt;h1 id=&#34;5-book&#34;&gt;5 = Book&lt;/h1&gt;
-
-&lt;h1 id=&#34;6-book-chapter&#34;&gt;6 = Book chapter&lt;/h1&gt;
-
-&lt;p&gt;publication_types = [&amp;ldquo;2&amp;rdquo;]&lt;/p&gt;
-
-&lt;h1 id=&#34;publication-name-and-optional-abbreviated-version&#34;&gt;Publication name and optional abbreviated version.&lt;/h1&gt;
-
-&lt;p&gt;publication = &amp;ldquo;In &lt;em&gt;Infant and Child Development&lt;/em&gt;&amp;ldquo;
-#publication_short = &amp;ldquo;In &lt;em&gt;SITIS&lt;/em&gt;&amp;ldquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;abstract-and-optional-shortened-version&#34;&gt;Abstract and optional shortened version.&lt;/h1&gt;
-
-&lt;p&gt;abstract = &amp;ldquo;&amp;rdquo;
-abstract_short = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;featured-image-thumbnail-optional&#34;&gt;Featured image thumbnail (optional)&lt;/h1&gt;
-
-&lt;p&gt;image_preview = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;is-this-a-selected-publication-true-false&#34;&gt;Is this a selected publication? (true/false)&lt;/h1&gt;
-
-&lt;p&gt;#selected = false&lt;/p&gt;
-
-&lt;h1 id=&#34;projects-optional&#34;&gt;Projects (optional).&lt;/h1&gt;
-
-&lt;h1 id=&#34;associate-this-publication-with-one-or-more-of-your-projects&#34;&gt;Associate this publication with one or more of your projects.&lt;/h1&gt;
-
-&lt;h1 id=&#34;simply-enter-the-filename-excluding-md-of-your-project-file-in-content-project&#34;&gt;Simply enter the filename (excluding &amp;lsquo;.md&amp;rsquo;) of your project file in &lt;code&gt;content/project/&lt;/code&gt;.&lt;/h1&gt;
-
-&lt;p&gt;projects = [&amp;ldquo;body-awareness&amp;rdquo;]&lt;/p&gt;
-
-&lt;h1 id=&#34;links-optional&#34;&gt;Links (optional).&lt;/h1&gt;
-
-&lt;p&gt;url_pdf = &amp;ldquo;&amp;rdquo;
-url_preprint = &amp;ldquo;&amp;rdquo;
-url_code = &amp;ldquo;&amp;rdquo;
-url_dataset = &amp;ldquo;&amp;rdquo;
-url_project = &amp;ldquo;&amp;rdquo;
-url_slides = &amp;ldquo;&amp;rdquo;
-url_video = &amp;ldquo;&amp;rdquo;
-url_poster = &amp;ldquo;&amp;rdquo;
-url_source = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;does-the-content-use-math-formatting&#34;&gt;Does the content use math formatting?&lt;/h1&gt;
-
-&lt;p&gt;math = true&lt;/p&gt;
-
-&lt;h1 id=&#34;does-the-content-use-source-code-highlighting&#34;&gt;Does the content use source code highlighting?&lt;/h1&gt;
-
-&lt;p&gt;highlight = false&lt;/p&gt;
-
-&lt;h1 id=&#34;featured-image&#34;&gt;Featured image&lt;/h1&gt;
-
-&lt;h1 id=&#34;place-your-image-in-the-static-img-folder-and-reference-its-filename-below-e-g-image-example-jpg&#34;&gt;Place your image in the &lt;code&gt;static/img/&lt;/code&gt; folder and reference its filename below, e.g. &lt;code&gt;image = &amp;quot;example.jpg&amp;quot;&lt;/code&gt;.&lt;/h1&gt;
-
-&lt;p&gt;[header]
-image = &amp;ldquo;&amp;rdquo;
-caption = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/publication/nirs-infants/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/nirs-infants/</guid>
-      <description>
-
-&lt;p&gt;title = &amp;ldquo;Neural mechanisms of body awareness in infants&amp;rdquo;
-date = &amp;ldquo;2014-09-01&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;authors-comma-separated-list-e-g-bob-smith-david-jones&#34;&gt;Authors. Comma separated list, e.g. &lt;code&gt;[&amp;quot;Bob Smith&amp;quot;, &amp;quot;David Jones&amp;quot;]&lt;/code&gt;.&lt;/h1&gt;
-
-&lt;p&gt;authors = [&amp;rdquo;&lt;strong&gt;Filippetti ML&lt;/strong&gt;&amp;rdquo;,&amp;ldquo;Lloyd-Fox S&amp;rdquo;, &amp;ldquo;Longo MR&amp;rdquo;, &amp;ldquo;Farroni T&amp;rdquo;, &amp;ldquo;Johnson MH&amp;rdquo;]&lt;/p&gt;
-
-&lt;h1 id=&#34;publication-type&#34;&gt;Publication type.&lt;/h1&gt;
-
-&lt;h1 id=&#34;legend&#34;&gt;Legend:&lt;/h1&gt;
-
-&lt;h1 id=&#34;0-uncategorized&#34;&gt;0 = Uncategorized&lt;/h1&gt;
-
-&lt;h1 id=&#34;1-conference-proceedings&#34;&gt;1 = Conference proceedings&lt;/h1&gt;
-
-&lt;h1 id=&#34;2-journal&#34;&gt;2 = Journal&lt;/h1&gt;
-
-&lt;h1 id=&#34;3-work-in-progress&#34;&gt;3 = Work in progress&lt;/h1&gt;
-
-&lt;h1 id=&#34;4-technical-report&#34;&gt;4 = Technical report&lt;/h1&gt;
-
-&lt;h1 id=&#34;5-book&#34;&gt;5 = Book&lt;/h1&gt;
-
-&lt;h1 id=&#34;6-book-chapter&#34;&gt;6 = Book chapter&lt;/h1&gt;
-
-&lt;p&gt;publication_types = [&amp;ldquo;2&amp;rdquo;]&lt;/p&gt;
-
-&lt;h1 id=&#34;publication-name-and-optional-abbreviated-version&#34;&gt;Publication name and optional abbreviated version.&lt;/h1&gt;
-
-&lt;p&gt;publication = &amp;ldquo;In &lt;em&gt;Cerebral Cortex&lt;/em&gt;&amp;ldquo;
-#publication_short = &amp;ldquo;In &lt;em&gt;SITIS&lt;/em&gt;&amp;ldquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;abstract-and-optional-shortened-version&#34;&gt;Abstract and optional shortened version.&lt;/h1&gt;
-
-&lt;p&gt;abstract = &amp;ldquo;&amp;rdquo;
-abstract_short = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;featured-image-thumbnail-optional&#34;&gt;Featured image thumbnail (optional)&lt;/h1&gt;
-
-&lt;p&gt;image_preview = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;is-this-a-selected-publication-true-false&#34;&gt;Is this a selected publication? (true/false)&lt;/h1&gt;
-
-&lt;p&gt;#selected = false&lt;/p&gt;
-
-&lt;h1 id=&#34;projects-optional&#34;&gt;Projects (optional).&lt;/h1&gt;
-
-&lt;h1 id=&#34;associate-this-publication-with-one-or-more-of-your-projects&#34;&gt;Associate this publication with one or more of your projects.&lt;/h1&gt;
-
-&lt;h1 id=&#34;simply-enter-the-filename-excluding-md-of-your-project-file-in-content-project&#34;&gt;Simply enter the filename (excluding &amp;lsquo;.md&amp;rsquo;) of your project file in &lt;code&gt;content/project/&lt;/code&gt;.&lt;/h1&gt;
-
-&lt;p&gt;projects = [&amp;ldquo;body-awareness&amp;rdquo;]&lt;/p&gt;
-
-&lt;h1 id=&#34;links-optional&#34;&gt;Links (optional).&lt;/h1&gt;
-
-&lt;p&gt;url_pdf = &amp;ldquo;&lt;a href=&#34;http://repository.essex.ac.uk/20436/&amp;quot;&#34; target=&#34;_blank&#34;&gt;http://repository.essex.ac.uk/20436/&amp;quot;&lt;/a&gt;
-url_preprint = &amp;ldquo;&amp;rdquo;
-url_code = &amp;ldquo;&amp;rdquo;
-url_dataset = &amp;ldquo;&amp;rdquo;
-url_project = &amp;ldquo;&amp;rdquo;
-url_slides = &amp;ldquo;&amp;rdquo;
-url_video = &amp;ldquo;&amp;rdquo;
-url_poster = &amp;ldquo;&amp;rdquo;
-url_source = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;does-the-content-use-math-formatting&#34;&gt;Does the content use math formatting?&lt;/h1&gt;
-
-&lt;p&gt;math = true&lt;/p&gt;
-
-&lt;h1 id=&#34;does-the-content-use-source-code-highlighting&#34;&gt;Does the content use source code highlighting?&lt;/h1&gt;
-
-&lt;p&gt;highlight = false&lt;/p&gt;
-
-&lt;h1 id=&#34;featured-image&#34;&gt;Featured image&lt;/h1&gt;
-
-&lt;h1 id=&#34;place-your-image-in-the-static-img-folder-and-reference-its-filename-below-e-g-image-example-jpg&#34;&gt;Place your image in the &lt;code&gt;static/img/&lt;/code&gt; folder and reference its filename below, e.g. &lt;code&gt;image = &amp;quot;example.jpg&amp;quot;&lt;/code&gt;.&lt;/h1&gt;
-
-&lt;p&gt;[header]
-image = &amp;ldquo;&amp;rdquo;
-caption = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/clothing-search/</guid>
-      <description>
-
-&lt;p&gt;title = &amp;ldquo;Body perception in newborns&amp;rdquo;
-date = &amp;ldquo;2013-07-01T00:00:00&amp;rdquo;&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;authors = [&amp;rdquo;&lt;strong&gt;Filippetti ML&lt;/strong&gt;&amp;rdquo;, &amp;ldquo;Johnson MH&amp;rdquo;, &amp;ldquo;Lloyd-Fox S&amp;rdquo;, &amp;ldquo;Dragovic D&amp;rdquo;, &amp;ldquo;Farroni T&amp;rdquo;]&lt;/p&gt;
-
-&lt;h1 id=&#34;publication-type&#34;&gt;Publication type.&lt;/h1&gt;
-
-&lt;h1 id=&#34;legend&#34;&gt;Legend:&lt;/h1&gt;
-
-&lt;h1 id=&#34;0-uncategorized&#34;&gt;0 = Uncategorized&lt;/h1&gt;
-
-&lt;h1 id=&#34;1-conference-proceedings&#34;&gt;1 = Conference proceedings&lt;/h1&gt;
-
-&lt;h1 id=&#34;2-journal&#34;&gt;2 = Journal&lt;/h1&gt;
-
-&lt;h1 id=&#34;3-work-in-progress&#34;&gt;3 = Work in progress&lt;/h1&gt;
-
-&lt;h1 id=&#34;4-technical-report&#34;&gt;4 = Technical report&lt;/h1&gt;
-
-&lt;h1 id=&#34;5-book&#34;&gt;5 = Book&lt;/h1&gt;
-
-&lt;h1 id=&#34;6-book-chapter&#34;&gt;6 = Book chapter&lt;/h1&gt;
-
-&lt;p&gt;publication_types = [&amp;ldquo;2&amp;rdquo;]&lt;/p&gt;
-
-&lt;h1 id=&#34;publication-name-and-optional-abbreviated-version&#34;&gt;Publication name and optional abbreviated version.&lt;/h1&gt;
-
-&lt;p&gt;publication = &amp;ldquo;In &lt;em&gt;Current Biology&lt;/em&gt;&amp;ldquo;
-#publication_short = &amp;ldquo;In &lt;em&gt;ICMEW&lt;/em&gt;&amp;ldquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;abstract-and-optional-shortened-version&#34;&gt;Abstract and optional shortened version.&lt;/h1&gt;
-
-&lt;p&gt;abstract = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;featured-image-thumbnail-optional&#34;&gt;Featured image thumbnail (optional)&lt;/h1&gt;
-
-&lt;p&gt;image_preview = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;is-this-a-selected-publication-true-false&#34;&gt;Is this a selected publication? (true/false)&lt;/h1&gt;
-
-&lt;p&gt;selected = true&lt;/p&gt;
-
-&lt;h1 id=&#34;projects-optional&#34;&gt;Projects (optional).&lt;/h1&gt;
-
-&lt;h1 id=&#34;associate-this-publication-with-one-or-more-of-your-projects&#34;&gt;Associate this publication with one or more of your projects.&lt;/h1&gt;
-
-&lt;h1 id=&#34;simply-enter-the-filename-excluding-md-of-your-project-file-in-content-project&#34;&gt;Simply enter the filename (excluding &amp;lsquo;.md&amp;rsquo;) of your project file in &lt;code&gt;content/project/&lt;/code&gt;.&lt;/h1&gt;
-
-&lt;p&gt;projects = [&amp;ldquo;body-awareness&amp;rdquo;]&lt;/p&gt;
-
-&lt;h1 id=&#34;links-optional&#34;&gt;Links (optional).&lt;/h1&gt;
-
-&lt;p&gt;url_pdf = &amp;ldquo;&lt;a href=&#34;http://repository.essex.ac.uk/20438/&amp;quot;&#34; target=&#34;_blank&#34;&gt;http://repository.essex.ac.uk/20438/&amp;quot;&lt;/a&gt;
-url_preprint = &amp;ldquo;&amp;rdquo;
-url_code = &amp;ldquo;&amp;rdquo;
-url_dataset = &amp;ldquo;&amp;rdquo;
-url_project = &amp;ldquo;&amp;rdquo;
-url_slides = &amp;ldquo;&amp;rdquo;
-url_video = &amp;ldquo;&amp;rdquo;
-url_poster = &amp;ldquo;&amp;rdquo;
-url_source = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;does-the-content-use-math-formatting&#34;&gt;Does the content use math formatting?&lt;/h1&gt;
-
-&lt;p&gt;math = true&lt;/p&gt;
-
-&lt;h1 id=&#34;does-the-content-use-source-code-highlighting&#34;&gt;Does the content use source code highlighting?&lt;/h1&gt;
-
-&lt;p&gt;highlight = false&lt;/p&gt;
-
-&lt;h1 id=&#34;featured-image&#34;&gt;Featured image&lt;/h1&gt;
-
-&lt;h1 id=&#34;place-your-image-in-the-static-img-folder-and-reference-its-filename-below-e-g-image-example-jpg&#34;&gt;Place your image in the &lt;code&gt;static/img/&lt;/code&gt; folder and reference its filename below, e.g. &lt;code&gt;image = &amp;quot;example.jpg&amp;quot;&lt;/code&gt;.&lt;/h1&gt;
-
-&lt;p&gt;[header]
-image = &amp;ldquo;&amp;rdquo;
-caption = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/publication/congruency/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/congruency/</guid>
-      <description>
-
-&lt;p&gt;title = &amp;ldquo;Newborn Body Perception: Sensitivity to Spatial Congruency&amp;rdquo;
-date = &amp;ldquo;2015-04-01T00:00:00&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;authors-comma-separated-list-e-g-bob-smith-david-jones&#34;&gt;Authors. Comma separated list, e.g. &lt;code&gt;[&amp;quot;Bob Smith&amp;quot;, &amp;quot;David Jones&amp;quot;]&lt;/code&gt;.&lt;/h1&gt;
-
-&lt;p&gt;authors = [&amp;rdquo;&lt;strong&gt;Filippetti ML&lt;/strong&gt;&amp;rdquo;,&amp;ldquo;Orioli G&amp;rdquo;, &amp;ldquo;Johnson MH&amp;rdquo;, &amp;ldquo;Farroni T&amp;rdquo;]&lt;/p&gt;
-
-&lt;h1 id=&#34;publication-type&#34;&gt;Publication type.&lt;/h1&gt;
-
-&lt;h1 id=&#34;legend&#34;&gt;Legend:&lt;/h1&gt;
-
-&lt;h1 id=&#34;0-uncategorized&#34;&gt;0 = Uncategorized&lt;/h1&gt;
-
-&lt;h1 id=&#34;1-conference-proceedings&#34;&gt;1 = Conference proceedings&lt;/h1&gt;
-
-&lt;h1 id=&#34;2-journal&#34;&gt;2 = Journal&lt;/h1&gt;
-
-&lt;h1 id=&#34;3-work-in-progress&#34;&gt;3 = Work in progress&lt;/h1&gt;
-
-&lt;h1 id=&#34;4-technical-report&#34;&gt;4 = Technical report&lt;/h1&gt;
-
-&lt;h1 id=&#34;5-book&#34;&gt;5 = Book&lt;/h1&gt;
-
-&lt;h1 id=&#34;6-book-chapter&#34;&gt;6 = Book chapter&lt;/h1&gt;
-
-&lt;p&gt;publication_types = [&amp;ldquo;2&amp;rdquo;]&lt;/p&gt;
-
-&lt;h1 id=&#34;publication-name-and-optional-abbreviated-version&#34;&gt;Publication name and optional abbreviated version.&lt;/h1&gt;
-
-&lt;p&gt;publication = &amp;ldquo;In &lt;em&gt;Infancy&lt;/em&gt;&amp;ldquo;
-#publication_short = &amp;ldquo;In &lt;em&gt;SITIS&lt;/em&gt;&amp;ldquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;abstract-and-optional-shortened-version&#34;&gt;Abstract and optional shortened version.&lt;/h1&gt;
-
-&lt;p&gt;abstract = &amp;ldquo;&amp;rdquo;
-abstract_short = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;featured-image-thumbnail-optional&#34;&gt;Featured image thumbnail (optional)&lt;/h1&gt;
-
-&lt;p&gt;image_preview = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;is-this-a-selected-publication-true-false&#34;&gt;Is this a selected publication? (true/false)&lt;/h1&gt;
-
-&lt;p&gt;#selected = false&lt;/p&gt;
-
-&lt;h1 id=&#34;projects-optional&#34;&gt;Projects (optional).&lt;/h1&gt;
-
-&lt;h1 id=&#34;associate-this-publication-with-one-or-more-of-your-projects&#34;&gt;Associate this publication with one or more of your projects.&lt;/h1&gt;
-
-&lt;h1 id=&#34;simply-enter-the-filename-excluding-md-of-your-project-file-in-content-project&#34;&gt;Simply enter the filename (excluding &amp;lsquo;.md&amp;rsquo;) of your project file in &lt;code&gt;content/project/&lt;/code&gt;.&lt;/h1&gt;
-
-&lt;p&gt;projects = [&amp;ldquo;body-awareness&amp;rdquo;]&lt;/p&gt;
-
-&lt;h1 id=&#34;links-optional&#34;&gt;Links (optional).&lt;/h1&gt;
-
-&lt;p&gt;url_pdf = &amp;ldquo;&lt;a href=&#34;http://repository.essex.ac.uk/20596/&amp;quot;&#34; target=&#34;_blank&#34;&gt;http://repository.essex.ac.uk/20596/&amp;quot;&lt;/a&gt;
-url_preprint = &amp;ldquo;&amp;rdquo;
-url_code = &amp;ldquo;&amp;rdquo;
-url_dataset = &amp;ldquo;&amp;rdquo;
-url_project = &amp;ldquo;&amp;rdquo;
-url_slides = &amp;ldquo;&amp;rdquo;
-url_video = &amp;ldquo;&amp;rdquo;
-url_poster = &amp;ldquo;&amp;rdquo;
-url_source = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;does-the-content-use-math-formatting&#34;&gt;Does the content use math formatting?&lt;/h1&gt;
-
-&lt;p&gt;math = true&lt;/p&gt;
-
-&lt;h1 id=&#34;does-the-content-use-source-code-highlighting&#34;&gt;Does the content use source code highlighting?&lt;/h1&gt;
-
-&lt;p&gt;highlight = false&lt;/p&gt;
-
-&lt;h1 id=&#34;featured-image&#34;&gt;Featured image&lt;/h1&gt;
-
-&lt;h1 id=&#34;place-your-image-in-the-static-img-folder-and-reference-its-filename-below-e-g-image-example-jpg&#34;&gt;Place your image in the &lt;code&gt;static/img/&lt;/code&gt; folder and reference its filename below, e.g. &lt;code&gt;image = &amp;quot;example.jpg&amp;quot;&lt;/code&gt;.&lt;/h1&gt;
-
-&lt;p&gt;[header]
-image = &amp;ldquo;&amp;rdquo;
-caption = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/publication/heartfelt/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/heartfelt/</guid>
-      <description>
-
-&lt;p&gt;title = &amp;ldquo;Heartfelt embodiment: Changes in body-ownership and self-identification produce distinct changes in interoceptive accuracy&amp;rdquo;
-date = &amp;ldquo;2017-10-01&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;authors-comma-separated-list-e-g-bob-smith-david-jones&#34;&gt;Authors. Comma separated list, e.g. &lt;code&gt;[&amp;quot;Bob Smith&amp;quot;, &amp;quot;David Jones&amp;quot;]&lt;/code&gt;.&lt;/h1&gt;
-
-&lt;p&gt;authors = [&amp;rdquo;&lt;strong&gt;Filippetti ML&lt;/strong&gt;&amp;rdquo;,&amp;ldquo;Tsakiris M&amp;rdquo;]&lt;/p&gt;
-
-&lt;h1 id=&#34;publication-type&#34;&gt;Publication type.&lt;/h1&gt;
-
-&lt;h1 id=&#34;legend&#34;&gt;Legend:&lt;/h1&gt;
-
-&lt;h1 id=&#34;0-uncategorized&#34;&gt;0 = Uncategorized&lt;/h1&gt;
-
-&lt;h1 id=&#34;1-conference-proceedings&#34;&gt;1 = Conference proceedings&lt;/h1&gt;
-
-&lt;h1 id=&#34;2-journal&#34;&gt;2 = Journal&lt;/h1&gt;
-
-&lt;h1 id=&#34;3-work-in-progress&#34;&gt;3 = Work in progress&lt;/h1&gt;
-
-&lt;h1 id=&#34;4-technical-report&#34;&gt;4 = Technical report&lt;/h1&gt;
-
-&lt;h1 id=&#34;5-book&#34;&gt;5 = Book&lt;/h1&gt;
-
-&lt;h1 id=&#34;6-book-chapter&#34;&gt;6 = Book chapter&lt;/h1&gt;
-
-&lt;p&gt;publication_types = [&amp;ldquo;2&amp;rdquo;]&lt;/p&gt;
-
-&lt;h1 id=&#34;publication-name-and-optional-abbreviated-version&#34;&gt;Publication name and optional abbreviated version.&lt;/h1&gt;
-
-&lt;p&gt;publication = &amp;ldquo;In &lt;em&gt;Cognition&lt;/em&gt;&amp;ldquo;
-#publication_short = &amp;ldquo;In &lt;em&gt;SITIS&lt;/em&gt;&amp;ldquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;abstract-and-optional-shortened-version&#34;&gt;Abstract and optional shortened version.&lt;/h1&gt;
-
-&lt;p&gt;abstract = &amp;ldquo;&amp;rdquo;
-abstract_short = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;featured-image-thumbnail-optional&#34;&gt;Featured image thumbnail (optional)&lt;/h1&gt;
-
-&lt;p&gt;image_preview = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;is-this-a-selected-publication-true-false&#34;&gt;Is this a selected publication? (true/false)&lt;/h1&gt;
-
-&lt;p&gt;#selected = false&lt;/p&gt;
-
-&lt;h1 id=&#34;projects-optional&#34;&gt;Projects (optional).&lt;/h1&gt;
-
-&lt;h1 id=&#34;associate-this-publication-with-one-or-more-of-your-projects&#34;&gt;Associate this publication with one or more of your projects.&lt;/h1&gt;
-
-&lt;h1 id=&#34;simply-enter-the-filename-excluding-md-of-your-project-file-in-content-project&#34;&gt;Simply enter the filename (excluding &amp;lsquo;.md&amp;rsquo;) of your project file in &lt;code&gt;content/project/&lt;/code&gt;.&lt;/h1&gt;
-
-&lt;p&gt;projects = [&amp;ldquo;body-awareness&amp;rdquo;]&lt;/p&gt;
-
-&lt;h1 id=&#34;links-optional&#34;&gt;Links (optional).&lt;/h1&gt;
-
-&lt;p&gt;url_pdf = &amp;ldquo;&lt;a href=&#34;http://repository.essex.ac.uk/20466/&amp;quot;&#34; target=&#34;_blank&#34;&gt;http://repository.essex.ac.uk/20466/&amp;quot;&lt;/a&gt;
-url_preprint = &amp;ldquo;&amp;rdquo;
-url_code = &amp;ldquo;&amp;rdquo;
-url_dataset = &amp;ldquo;&amp;rdquo;
-url_project = &amp;ldquo;&amp;rdquo;
-url_slides = &amp;ldquo;&amp;rdquo;
-url_video = &amp;ldquo;&amp;rdquo;
-url_poster = &amp;ldquo;&amp;rdquo;
-url_source = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;does-the-content-use-math-formatting&#34;&gt;Does the content use math formatting?&lt;/h1&gt;
-
-&lt;p&gt;math = true&lt;/p&gt;
-
-&lt;h1 id=&#34;does-the-content-use-source-code-highlighting&#34;&gt;Does the content use source code highlighting?&lt;/h1&gt;
-
-&lt;p&gt;highlight = false&lt;/p&gt;
-
-&lt;h1 id=&#34;featured-image&#34;&gt;Featured image&lt;/h1&gt;
-
-&lt;h1 id=&#34;place-your-image-in-the-static-img-folder-and-reference-its-filename-below-e-g-image-example-jpg&#34;&gt;Place your image in the &lt;code&gt;static/img/&lt;/code&gt; folder and reference its filename below, e.g. &lt;code&gt;image = &amp;quot;example.jpg&amp;quot;&lt;/code&gt;.&lt;/h1&gt;
-
-&lt;p&gt;[header]
-image = &amp;ldquo;&amp;rdquo;
-caption = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/publication/mind-mindedness/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/mind-mindedness/</guid>
-      <description>
-
-&lt;p&gt;title = &amp;ldquo;The Mindedness of Maternal Touch: An Investigation of Maternal Mind-Mindedness and Mother-Infant Touch Interactions&amp;rdquo;
-date = &amp;ldquo;2018-02-01&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;authors-comma-separated-list-e-g-bob-smith-david-jones&#34;&gt;Authors. Comma separated list, e.g. &lt;code&gt;[&amp;quot;Bob Smith&amp;quot;, &amp;quot;David Jones&amp;quot;]&lt;/code&gt;.&lt;/h1&gt;
-
-&lt;p&gt;authors = [&amp;ldquo;Crucianelli L&amp;rdquo;, &amp;ldquo;Wheatley L&amp;rdquo;, &amp;ldquo;&lt;strong&gt;Filippetti ML&lt;/strong&gt;&amp;rdquo;, &amp;ldquo;Jenkinson P&amp;rdquo;, &amp;ldquo;Kirk E&amp;rdquo;, &amp;ldquo;Fotopoulou A&amp;rdquo;]&lt;/p&gt;
-
-&lt;h1 id=&#34;publication-type&#34;&gt;Publication type.&lt;/h1&gt;
-
-&lt;h1 id=&#34;legend&#34;&gt;Legend:&lt;/h1&gt;
-
-&lt;h1 id=&#34;0-uncategorized&#34;&gt;0 = Uncategorized&lt;/h1&gt;
-
-&lt;h1 id=&#34;1-conference-proceedings&#34;&gt;1 = Conference proceedings&lt;/h1&gt;
-
-&lt;h1 id=&#34;2-journal&#34;&gt;2 = Journal&lt;/h1&gt;
-
-&lt;h1 id=&#34;3-work-in-progress&#34;&gt;3 = Work in progress&lt;/h1&gt;
-
-&lt;h1 id=&#34;4-technical-report&#34;&gt;4 = Technical report&lt;/h1&gt;
-
-&lt;h1 id=&#34;5-book&#34;&gt;5 = Book&lt;/h1&gt;
-
-&lt;h1 id=&#34;6-book-chapter&#34;&gt;6 = Book chapter&lt;/h1&gt;
-
-&lt;p&gt;publication_types = [&amp;ldquo;2&amp;rdquo;]&lt;/p&gt;
-
-&lt;h1 id=&#34;publication-name-and-optional-abbreviated-version&#34;&gt;Publication name and optional abbreviated version.&lt;/h1&gt;
-
-&lt;p&gt;publication = &amp;ldquo;In &lt;em&gt;Developmental Cognitive Neuroscience&lt;/em&gt;&amp;ldquo;
-#publication_short = &amp;ldquo;In &lt;em&gt;SITIS&lt;/em&gt;&amp;ldquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;abstract-and-optional-shortened-version&#34;&gt;Abstract and optional shortened version.&lt;/h1&gt;
-
-&lt;p&gt;abstract = &amp;ldquo;&amp;rdquo;
-abstract_short = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;featured-image-thumbnail-optional&#34;&gt;Featured image thumbnail (optional)&lt;/h1&gt;
-
-&lt;p&gt;image_preview = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;is-this-a-selected-publication-true-false&#34;&gt;Is this a selected publication? (true/false)&lt;/h1&gt;
-
-&lt;p&gt;#selected = false&lt;/p&gt;
-
-&lt;h1 id=&#34;projects-optional&#34;&gt;Projects (optional).&lt;/h1&gt;
-
-&lt;h1 id=&#34;associate-this-publication-with-one-or-more-of-your-projects&#34;&gt;Associate this publication with one or more of your projects.&lt;/h1&gt;
-
-&lt;h1 id=&#34;simply-enter-the-filename-excluding-md-of-your-project-file-in-content-project&#34;&gt;Simply enter the filename (excluding &amp;lsquo;.md&amp;rsquo;) of your project file in &lt;code&gt;content/project/&lt;/code&gt;.&lt;/h1&gt;
-
-&lt;p&gt;projects = [&amp;ldquo;tactile-interactions&amp;rdquo;]&lt;/p&gt;
-
-&lt;h1 id=&#34;links-optional&#34;&gt;Links (optional).&lt;/h1&gt;
-
-&lt;p&gt;url_pdf = &amp;ldquo;&lt;a href=&#34;http://repository.essex.ac.uk/21288/&amp;quot;&#34; target=&#34;_blank&#34;&gt;http://repository.essex.ac.uk/21288/&amp;quot;&lt;/a&gt;
-url_preprint = &amp;ldquo;&amp;rdquo;
-url_code = &amp;ldquo;&amp;rdquo;
-url_dataset = &amp;ldquo;&amp;rdquo;
-url_project = &amp;ldquo;&amp;rdquo;
-url_slides = &amp;ldquo;&amp;rdquo;
-url_video = &amp;ldquo;&amp;rdquo;
-url_poster = &amp;ldquo;&amp;rdquo;
-url_source = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;does-the-content-use-math-formatting&#34;&gt;Does the content use math formatting?&lt;/h1&gt;
-
-&lt;p&gt;math = true&lt;/p&gt;
-
-&lt;h1 id=&#34;does-the-content-use-source-code-highlighting&#34;&gt;Does the content use source code highlighting?&lt;/h1&gt;
-
-&lt;p&gt;highlight = false&lt;/p&gt;
-
-&lt;h1 id=&#34;featured-image&#34;&gt;Featured image&lt;/h1&gt;
-
-&lt;h1 id=&#34;place-your-image-in-the-static-img-folder-and-reference-its-filename-below-e-g-image-example-jpg&#34;&gt;Place your image in the &lt;code&gt;static/img/&lt;/code&gt; folder and reference its filename below, e.g. &lt;code&gt;image = &amp;quot;example.jpg&amp;quot;&lt;/code&gt;.&lt;/h1&gt;
-
-&lt;p&gt;[header]
-image = &amp;ldquo;&amp;rdquo;
-caption = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/publication/peripersonal/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/peripersonal/</guid>
-      <description>
-
-&lt;p&gt;title = &amp;ldquo;Trajectory Discrimination and Peripersonal Space Perception in Newborns&amp;rdquo;
-date = &amp;ldquo;2018-01-05&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;authors-comma-separated-list-e-g-bob-smith-david-jones&#34;&gt;Authors. Comma separated list, e.g. &lt;code&gt;[&amp;quot;Bob Smith&amp;quot;, &amp;quot;David Jones&amp;quot;]&lt;/code&gt;.&lt;/h1&gt;
-
-&lt;p&gt;authors = [&amp;ldquo;Orioli G&amp;rdquo;, &amp;ldquo;&lt;strong&gt;Filippetti ML&lt;/strong&gt;&amp;rdquo;, &amp;ldquo;Gerbino W&amp;rdquo;, &amp;ldquo;Dragovic D&amp;rdquo;, &amp;ldquo;Farroni T&amp;rdquo;]&lt;/p&gt;
-
-&lt;h1 id=&#34;publication-type&#34;&gt;Publication type.&lt;/h1&gt;
-
-&lt;h1 id=&#34;legend&#34;&gt;Legend:&lt;/h1&gt;
-
-&lt;h1 id=&#34;0-uncategorized&#34;&gt;0 = Uncategorized&lt;/h1&gt;
-
-&lt;h1 id=&#34;1-conference-proceedings&#34;&gt;1 = Conference proceedings&lt;/h1&gt;
-
-&lt;h1 id=&#34;2-journal&#34;&gt;2 = Journal&lt;/h1&gt;
-
-&lt;h1 id=&#34;3-work-in-progress&#34;&gt;3 = Work in progress&lt;/h1&gt;
-
-&lt;h1 id=&#34;4-technical-report&#34;&gt;4 = Technical report&lt;/h1&gt;
-
-&lt;h1 id=&#34;5-book&#34;&gt;5 = Book&lt;/h1&gt;
-
-&lt;h1 id=&#34;6-book-chapter&#34;&gt;6 = Book chapter&lt;/h1&gt;
-
-&lt;p&gt;publication_types = [&amp;ldquo;2&amp;rdquo;]&lt;/p&gt;
-
-&lt;h1 id=&#34;publication-name-and-optional-abbreviated-version&#34;&gt;Publication name and optional abbreviated version.&lt;/h1&gt;
-
-&lt;p&gt;publication = &amp;ldquo;In &lt;em&gt;Infancy&lt;/em&gt;&amp;ldquo;
-#publication_short = &amp;ldquo;In &lt;em&gt;SITIS&lt;/em&gt;&amp;ldquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;abstract-and-optional-shortened-version&#34;&gt;Abstract and optional shortened version.&lt;/h1&gt;
-
-&lt;p&gt;abstract = &amp;ldquo;&amp;rdquo;
-abstract_short = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;featured-image-thumbnail-optional&#34;&gt;Featured image thumbnail (optional)&lt;/h1&gt;
-
-&lt;p&gt;image_preview = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;is-this-a-selected-publication-true-false&#34;&gt;Is this a selected publication? (true/false)&lt;/h1&gt;
-
-&lt;p&gt;#selected = false&lt;/p&gt;
-
-&lt;h1 id=&#34;projects-optional&#34;&gt;Projects (optional).&lt;/h1&gt;
-
-&lt;h1 id=&#34;associate-this-publication-with-one-or-more-of-your-projects&#34;&gt;Associate this publication with one or more of your projects.&lt;/h1&gt;
-
-&lt;h1 id=&#34;simply-enter-the-filename-excluding-md-of-your-project-file-in-content-project&#34;&gt;Simply enter the filename (excluding &amp;lsquo;.md&amp;rsquo;) of your project file in &lt;code&gt;content/project/&lt;/code&gt;.&lt;/h1&gt;
-
-&lt;p&gt;projects = [&amp;ldquo;body-awareness&amp;rdquo;]&lt;/p&gt;
-
-&lt;h1 id=&#34;links-optional&#34;&gt;Links (optional).&lt;/h1&gt;
-
-&lt;p&gt;url_pdf = &amp;ldquo;&lt;a href=&#34;http://repository.essex.ac.uk/20465/&amp;quot;&#34; target=&#34;_blank&#34;&gt;http://repository.essex.ac.uk/20465/&amp;quot;&lt;/a&gt;
-url_preprint = &amp;ldquo;&amp;rdquo;
-url_code = &amp;ldquo;&amp;rdquo;
-url_dataset = &amp;ldquo;&amp;rdquo;
-url_project = &amp;ldquo;&amp;rdquo;
-url_slides = &amp;ldquo;&amp;rdquo;
-url_video = &amp;ldquo;&amp;rdquo;
-url_poster = &amp;ldquo;&amp;rdquo;
-url_source = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;does-the-content-use-math-formatting&#34;&gt;Does the content use math formatting?&lt;/h1&gt;
-
-&lt;p&gt;math = true&lt;/p&gt;
-
-&lt;h1 id=&#34;does-the-content-use-source-code-highlighting&#34;&gt;Does the content use source code highlighting?&lt;/h1&gt;
-
-&lt;p&gt;highlight = false&lt;/p&gt;
-
-&lt;h1 id=&#34;featured-image&#34;&gt;Featured image&lt;/h1&gt;
-
-&lt;h1 id=&#34;place-your-image-in-the-static-img-folder-and-reference-its-filename-below-e-g-image-example-jpg&#34;&gt;Place your image in the &lt;code&gt;static/img/&lt;/code&gt; folder and reference its filename below, e.g. &lt;code&gt;image = &amp;quot;example.jpg&amp;quot;&lt;/code&gt;.&lt;/h1&gt;
-
-&lt;p&gt;[header]
-image = &amp;ldquo;&amp;rdquo;
-caption = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
 </description>
     </item>
     
