@@ -269,11 +269,6 @@ enableGitInfo = false
   url = "#supervision"
   weight = 3
 
-#[[menu.main]]
- # name = "Supervision"
- # url = "#supervision"
- # weight = 3
-
 [[menu.main]]
   name = "Projects"
   url = "#projects"
