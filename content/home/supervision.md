@@ -4,14 +4,14 @@
 # To create more sections, duplicate this file and edit the values below as desired.
 widget = "custom"
 active = true
-date = 2016-04-20T00:00:00
+date = 2016-04-20
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Supervision"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 60
+weight = 50
 
 +++
 
@@ -31,5 +31,3 @@ I am happy to discuss projects that fall within the scope of:
 - Eating behaviour in infants and young children (psychophysiology and behaviour)
  
 Please get in touch if you want to discuss possible research experience and/or PhD opportunities.
-
-

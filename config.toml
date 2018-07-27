@@ -252,7 +252,7 @@ enableGitInfo = false
 #   The weight parameter defines the order that the links will appear in.
 [params.menus]
   # Align the main menu to the right of the page? (true/false)
-  align_right = false
+  align_right = true
 
 [[menu.main]]
   name = "Home"
@@ -267,12 +267,12 @@ enableGitInfo = false
 [[menu.main]]
   name = "Supervision"
   url = "#supervision"
-  weight = 4
+  weight = 3
 
 [[menu.main]]
   name = "Projects"
   url = "#projects"
-  weight = 3
+  weight = 4
 
 [[menu.main]]
   name = "Teaching"
