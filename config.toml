@@ -264,23 +264,16 @@ enableGitInfo = false
   url = "#publications"
   weight = 2
 
-<<<<<<< HEAD
 [[menu.main]]
   name = "Supervision"
   url = "#supervision"
   weight = 3
-<<<<<<< HEAD
-  
-=======
 
->>>>>>> 815c27bdfb8663ba2d424aade176d54e64f4bc6f
-=======
 #[[menu.main]]
  # name = "Supervision"
  # url = "#supervision"
  # weight = 3
 
->>>>>>> da7ad08775b8fbd9659f2d32503f5e30ebda2387
 [[menu.main]]
   name = "Projects"
   url = "#projects"
