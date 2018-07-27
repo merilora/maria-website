@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2016-04-20T00:00:00
+date = "2016-04-20T00:00:00"
 
 # Order that this section will appear in.
 weight = 5
@@ -43,8 +43,4 @@ Maria Laura's first post-doctoral position at [Royal Holloway University of Lond
 Maria Laura joined the Department of Psychology of University of Essex in Autumn 2017 as a lecturer. 
 
 At the University of Essex, Maria Laura is part of the [Essex Babylab] (http://www.babylabessex.wordpress.com), where she researches the development of body awareness, self-recognition, and appetitive tendencies using a variety of psychophysiological and behavioural techniques.
-<<<<<<< HEAD
 
-
-=======
->>>>>>> dbe1d578326b17812e5be03d0946c96de8229792

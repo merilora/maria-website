@@ -1,9 +1,9 @@
 +++
 title = "Body perception in newborns"
-date = 2013-11-01T00:00:00
+date = 2013-07-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**Filippetti ML**","Johnson MH", "Lloyd-Fox S", "Dragovic D", "Farroni T"]
+authors = ["**Filippetti ML**", "Johnson MH", "Lloyd-Fox S", "Dragovic D", "Farroni T"]
 
 # Publication type.
 # Legend:
@@ -18,17 +18,16 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Current Biology*"
-#publication_short = "In *SITIS*"
+#publication_short = "In *ICMEW*"
 
 # Abstract and optional shortened version.
 abstract = ""
-abstract_short = ""
 
 # Featured image thumbnail (optional)
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-#selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -46,6 +45,10 @@ url_video = ""
 url_poster = ""
 url_source = ""
 
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+#url_custom = [{name = "Custom Link", url = "http://example.org"}]
+
 # Does the content use math formatting?
 math = true
 
@@ -58,8 +61,6 @@ highlight = true
 image = ""
 caption = ""
 
-<<<<<<< HEAD
 +++
 
-=======
->>>>>>> dbe1d578326b17812e5be03d0946c96de8229792
+More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
