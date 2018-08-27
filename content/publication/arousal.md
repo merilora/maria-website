@@ -16,7 +16,7 @@ url_pdf = "https://www.researchgate.net/publication/327217452_Dissociable_source
 url_project = ""
 url_slides = ""
 url_video = ""
-projects = ["body awareness", "tactile-interactions"]
+projects = ["tactile-interactions"]
 
 # Optional featured image (relative to `static/img/` folder).
 [header]

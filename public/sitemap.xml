@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/publication/arousal/</loc>
+      <lastmod>2018-08-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/new-persp/</loc>
       <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     </url>
@@ -16,6 +25,15 @@
     
       <loc>/publication/new-mm/</loc>
       <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/new/</loc>
+      <lastmod>2018-01-20T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -141,7 +159,7 @@
     <url>
     
       <loc>/publication_types/2/</loc>
-      <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+      <lastmod>2018-08-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -200,7 +218,7 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+      <lastmod>2018-08-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
