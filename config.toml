@@ -63,7 +63,7 @@ enableGitInfo = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.tiff"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "m.filippetti@essex.ac.uk"
+  email = "m.filippetti{at}essex{dot}ac{dot}uk"
   address = "Department of Psychology, Wivenhoe Park, University of Essex, CO4 3SQ, Colchester UK"
   office_hours = "email for appointment"
   phone = ""
@@ -225,10 +225,10 @@ enableGitInfo = false
   #
   #   Full list: https://jpswalsh.github.io/academicons/
 
-  [[params.social]]
-    icon = "envelope"
-    icon_pack = "fa"
-    link = "mailto:m.filippetti@essex.ac.uk"
+  #[[params.social]]
+    #icon = "envelope"
+    #icon_pack = "fa"
+    #link = "mailto:m.filippetti@essex.ac.uk"
 
   [[params.social]]
     icon = "twitter"
