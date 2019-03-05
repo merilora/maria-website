@@ -42,7 +42,7 @@ filter_default = 0
   tag = ".touch"
   
 [[filter]]
-  name = "Eating behaviour"
-  tag = ".eating-behaviour"
+  name = "Interoception"
+  tag = ".interoception"
 +++
 
