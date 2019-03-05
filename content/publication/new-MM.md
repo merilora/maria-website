@@ -16,7 +16,7 @@ url_pdf = "http://repository.essex.ac.uk/21288/"
 url_project = ""
 url_slides = ""
 url_video = ""
-projects = ["tactile-interactions"]
+projects = ["touch"]
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
