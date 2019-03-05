@@ -39,7 +39,7 @@ filter_default = 0
   
 [[filter]]
   name = "Tactile interactions"
-  tag = ".tactile-interactions"
+  tag = ".touch"
   
 [[filter]]
   name = "Eating behaviour"
