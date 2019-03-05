@@ -3,7 +3,7 @@
 date = 2011-04-27T00:00:00
 
 # Project title.
-title = "Tactile interactions"
+title = "Touch"
 
 # Project summary to display on homepage.
 summary = "How does touch contribute to our sense of body awareness?"
