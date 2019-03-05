@@ -16,7 +16,7 @@ url_pdf = "http://repository.essex.ac.uk/20438/"
 url_project = ""
 url_slides = ""
 url_video = ""
-projects = ["body-awareness"]
+projects = ["body-awareness", "touch"]
 
 # Optional featured image (relative to `static/img/` folder).
 [header]

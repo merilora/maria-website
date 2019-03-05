@@ -16,7 +16,7 @@ url_pdf = "https://link.springer.com/article/10.1007%2Fs11245-018-9565-1"
 url_project = ""
 url_slides = ""
 url_video = ""
-projects = ["tactile-interactions"]
+projects = ["touch"]
 
 # Optional featured image (relative to `static/img/` folder).
 [header]

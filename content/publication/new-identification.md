@@ -16,7 +16,7 @@ url_pdf = "http://repository.essex.ac.uk/20488/"
 url_project = ""
 url_slides = ""
 url_video = ""
-projects = ["self-recognition", "tactile-interactions"]
+projects = ["self-recognition", "touch"]
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
