@@ -13,7 +13,7 @@ weight = 5
     "Body awareness",
     "Self recognition",
     "Tactile interactions",
-    "Eating behaviour",
+    "Interoception",
     "Near Infrared Spectroscopy"
   ]
 

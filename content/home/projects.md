@@ -38,7 +38,7 @@ filter_default = 0
   tag = ".self-recognition"
   
 [[filter]]
-  name = "Tactile interactions"
+  name = "Touch"
   tag = ".touch"
   
 [[filter]]
