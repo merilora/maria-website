@@ -1,7 +1,7 @@
 +++
 abstract = ""
 
-authors = [""Della Longa", **Filippetti ML**","Dragovic", "Farroni"]
+authors = ["Della Longa L", **Filippetti ML**","Dragovic D", "Farroni T"]
 date = "2020-01-09"
 image_preview = ""
 math = true
