@@ -15,11 +15,10 @@ weight = 60
 
 +++
 
-I am a teaching instructor for the following courses at University of Essex:
+I teach the following courses at University of Essex:
 
 - Developmental Psychology (PS406)
-- Discovering Psychology: The Science Behind Human Behaviour (PS111)
-- MSc Psychology Research Project (PS900)
+- Making connections: how children develop (PS507)
 - Advanced Developmental Psychology (PS931)
 - Special Topics in Individual Differences and Developmental Psychology (PS938)
-- Research Project (MSc) (PS934)
+
