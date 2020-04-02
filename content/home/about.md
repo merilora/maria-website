@@ -37,7 +37,7 @@ weight = 5
 
 # Biography
 
-I completed her undergraduate and master degrees in Developmental and Educational Psychology at University of Padua, in Italy. Then, I moved to London to start a PhD ( funded by the Marie Curie Early Stage Researcher Fellowship) at the [Centre for Brain and Cognitive Development, Birkbeck College London] (http://cbcd.bbk.ac.uk), under the supervision of [Prof Mark H. Johnson] (https://www.psychol.cam.ac.uk/people/professor-mark-johnson). Here I investigated body perception in newborns and infants.
+I completed my undergraduate and master degrees in Developmental and Educational Psychology at University of Padua, in Italy. Then, I moved to London to start a PhD ( funded by the Marie Curie Early Stage Researcher Fellowship) at the [Centre for Brain and Cognitive Development, Birkbeck College London] (http://cbcd.bbk.ac.uk), under the supervision of [Prof Mark H. Johnson] (https://www.psychol.cam.ac.uk/people/professor-mark-johnson). Here I investigated body perception in newborns and infants.
 
 My first post-doctoral position at Royal Holloway University of London with [Prof Manos Tsakiris] (http://manostsakiris.com) focused on the interaction between interoceptive and exteroceptive body-related signals in the development of body-awareness in infants and adults. In 2016, I moved to University College London to work with [Prof Katerina Fotopoulou] (http://www.fotopoulou.com) and further my expertise on self- and body-awareness across the lifespan, with a specific focus on affective touch.
 I joined the Department of Psychology of University of Essex in Autumn 2017 as a lecturer. 
