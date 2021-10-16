@@ -16,7 +16,7 @@ url_pdf = "https://www.nature.com/articles/s42003-021-02534-y"
 url_preprint = ""
 url_slides = ""
 url_video = ""
-projects = [""]
+projects = ["body-awareness"]
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
