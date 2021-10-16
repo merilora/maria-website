@@ -16,7 +16,7 @@ url_pdf = "https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/cdep.12420"
 url_project = ""
 url_slides = ""
 url_video = ""
-projects = ["body-awareness"]
+projects = ["interoception", "body-awareness"]
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
