@@ -1,7 +1,7 @@
 +++
 abstract = ""
 
-authors = ["Andreu-Perez J", "Emberson L L", "Kiani, M", **Filippetti ML**","Hagras H", "Rigato S"]
+authors = ["Andreu-Perez J", "Emberson L L", "Kiani, M", "**Filippetti ML**","Hagras H", "Rigato S"]
 date = "2021-09-09"
 image_preview = ""
 math = true
