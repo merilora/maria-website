@@ -16,7 +16,7 @@ url_pdf = "https://srcd.onlinelibrary.wiley.com/doi/pdf/10.1111/cdep.12449"
 url_preprint = ""
 url_slides = ""
 url_video = ""
-projects = [""]
+projects = []
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
