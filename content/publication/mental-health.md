@@ -16,7 +16,7 @@ url_pdf = "https://bmcpregnancychildbirth.biomedcentral.com/articles/10.1186/s12
 url_preprint = ""
 url_slides = ""
 url_video = ""
-projects = []
+projects = ["body-awareness"]
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
