@@ -51,7 +51,7 @@ enableGitInfo = false
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "classic"
+  font = "playfair"
 
   # Your details.
   name = "Maria Laura Filippetti"
