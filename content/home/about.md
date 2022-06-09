@@ -12,8 +12,8 @@ weight = 5
   interests = [
     "Body awareness",
     "Self recognition",
-    "Tactile interactions",
     "Interoception",
+    "Caregiver-infant interactions",
     "Near Infrared Spectroscopy"
   ]
 
@@ -21,7 +21,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Developmental Cognitive Neuroscience"
   institution = "Centre for Brain and Cognitive Development, Birkbeck College University of London"
-  year = 2014
+  year = 2015
 
 [[education.courses]]
   course = "MSc in Developmental Psychology"
@@ -42,5 +42,5 @@ I completed my undergraduate and master degrees in Developmental and Educational
 My first post-doctoral position at Royal Holloway University of London with [Prof Manos Tsakiris] (http://manostsakiris.com) focused on the interaction between interoceptive and exteroceptive body-related signals in the development of body-awareness in infants and adults. In 2016, I moved to University College London to work with [Prof Katerina Fotopoulou] (http://www.fotopoulou.com) and further my expertise on self- and body-awareness across the lifespan, with a specific focus on affective touch.
 I joined the Department of Psychology of University of Essex in Autumn 2017 as a lecturer. 
 
-At the University of Essex, I am part of the [Essex Babylab] (http://www.babylabessex.wordpress.com), where I research the development of body awareness, self-recognition, and interoception using a combination of psychophysiological (e.g.; EEG/NIRS) and behavioural techniques.
+At the University of Essex, I am part of the [Essex Babylab] (https://www.essex.ac.uk/departments/psychology/facilities/centre-for-brain-science/babylab), where I research the development of body awareness, self-recognition, and interoception using a combination of psychophysiological (e.g.; EEG/NIRS) and behavioural techniques.
 
