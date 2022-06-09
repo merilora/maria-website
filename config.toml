@@ -51,7 +51,7 @@ enableGitInfo = false
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "default"
+  font = "classic"
 
   # Your details.
   name = "Maria Laura Filippetti"
@@ -62,7 +62,7 @@ enableGitInfo = false
   organizations = [ { name = "University of Essex", url = "//www.essex.ac.uk/people/filip68709/maria-filippetti" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.tiff"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "portrait.jpeg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "m.filippetti{at}essex{dot}ac{dot}uk"
   address = "Department of Psychology, Wivenhoe Park, University of Essex, CO4 3SQ, Colchester UK"
   office_hours = "email for appointment"
