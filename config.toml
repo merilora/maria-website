@@ -12,7 +12,7 @@ title = "Maria Laura Filippetti"
 # To display a copyright symbol, type `&copy;`.
 copyright = "&copy; 2018"
 
-theme = "hugo-academic"
+theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -55,7 +55,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Maria Laura Filippetti"
-  role = "Lecturer in Developmental Psychology"
+  role = "Lecturer in Psychology"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
