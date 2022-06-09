@@ -28,6 +28,6 @@ I am happy to discuss projects that fall within the scope of:
 - Methodological advances in fNIRS
 - The development of self-recognition 
 - Mechanisms underpinning self-other distinction, including tactile interactions 
-- Eating behaviour in infants and young children (psychophysiology and behaviour)
+- Interoception and eating behaviour in infants and young children (psychophysiology and behaviour)
  
 Please get in touch if you want to discuss possible research experience and/or PhD opportunities.

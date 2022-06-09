@@ -20,5 +20,5 @@ I teach the following courses at University of Essex:
 - Developmental Psychology (PS406)
 - Making connections: how children develop (PS507)
 - Advanced Developmental Psychology (PS931)
-- Special Topics in Individual Differences and Developmental Psychology (PS938)
+#- Special Topics in Individual Differences and Developmental Psychology (PS938)
 
