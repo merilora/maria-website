@@ -1,6 +1,7 @@
+
 # Team detail.
-title = "Caryn Cook"
-role = "PhD student"
+title = "Liam Chawner"
+role = "Postdoc"
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = ""
 # Optional external URL for project (replaces project detail page).
