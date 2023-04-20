@@ -23,11 +23,9 @@ If you're interested in my research work and would like to work on infant and ch
 
 I am happy to discuss projects that fall within the scope of:
 
-- Multisensory integration and body awareness across the lifespan
-- Psychological and neural mechanisms of body awareness 
-- Methodological advances in fNIRS
+- Multisensory integration and bodily self-awareness across the lifespan
+- Psychological and neural mechanisms of bodily self-awareness 
 - The development of self-recognition 
-- Mechanisms underpinning self-other distinction, including tactile interactions 
 - Interoception and eating behaviour in infants and young children (psychophysiology and behaviour)
  
 Please get in touch if you want to discuss possible research experience and/or PhD opportunities.
