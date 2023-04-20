@@ -37,7 +37,6 @@ filter_default = 0
   name = "Self recognition"
   tag = ".self-recognition"
 
-  
 [[filter]]
   name = "Interoception"
   tag = ".interoception"

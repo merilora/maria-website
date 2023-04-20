@@ -13,6 +13,16 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 30
 
+# Content.
+# Display content from the following folder.
+# For example, `folder = "project"` displays content from `content/project/`.
+folder = "teams"
+
+# View.
+# Customize how projects are displayed.
+# Legend: 0 = list, 1 = cards.
+view = 0
+
 +++
 
 
