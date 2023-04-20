@@ -206,6 +206,16 @@ enableGitInfo = false
     #   2 = APA
     #   3 = MLA
     publication_format = 2
+    
+ # Configuration of team pages.
+  [params.team]
+  # Number of team members shown per row.
+  columns = "2"
+  # Maximum number of team members shown (0 = all).
+  max_entries = "0"
+  # Order that entries are displayed (ascending or descending; use `date` for chronological order).
+  order = "asc"
+
 
   # Social/Academic Networking
   #
