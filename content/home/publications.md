@@ -6,7 +6,7 @@ active = true
 date = 2016-04-20T00:00:00
 
 title = "Recent Publications"
-subtitle = ""
+subtitle = "Find a complete list of publications [here] "https://scholar.google.com/citations?user=6z0JqFwAAAAJ&hl=en""
 
 # Order that this section will appear in.
 weight = 20
