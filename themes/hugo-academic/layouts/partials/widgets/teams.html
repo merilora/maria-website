@@ -1,20 +1,18 @@
-{{ $ := .root }}
 {{ $page := .page }}
-{{ $talks_len := len (where $.Site.RegularPages "Type" "talk") }}
 
 <!-- Teams widget -->
 <div class="row">
+  {{ if $page.Title }}
   <div class="col-xs-12 col-md-4 section-heading">
     <h1>{{ with $page.Title }}{{ . | markdownify }}{{ end }}</h1>
     {{ with $page.Params.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
-    {{ if gt $talks_len $page.Params.count }}
-    <p class="view-all">
-      <a href="{{ ($.Site.GetPage "section" "talk").Permalink }}">
-        {{ i18n "more_teams" | markdownify }}
-        <i class="fa fa-angle-double-right"></i>
-      </a>
-    </p>
-    {{ end }}
   </div>
   <div class="col-xs-12 col-md-8">
-    {{ with $page.Content }}<p>{{ . | markdownify }}</p>{{ end }}
+    {{ $page.Content }}
+  </div>
+  {{ else }}
+  <div class="col-md-12">
+    {{ $page.Content }}
+  </div>
+  {{ end }}
+</div>
