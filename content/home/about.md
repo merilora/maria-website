@@ -42,5 +42,5 @@ I completed my undergraduate and master degrees in Developmental and Educational
 My first post-doctoral position at Royal Holloway University of London with [Prof Manos Tsakiris] (http://manostsakiris.com) focused on the interaction between interoceptive and exteroceptive body-related signals in the development of body-awareness in infants and adults. In 2016, I moved to University College London to work with [Prof Katerina Fotopoulou] (http://www.fotopoulou.com) and further my expertise on self- and body-awareness across the lifespan, with a specific focus on affective touch.
 I joined the Department of Psychology of University of Essex in Autumn 2017 as a lecturer. 
 
-At the University of Essex, I am part of the [Essex Babylab] (https://www.essex.ac.uk/departments/psychology/facilities/centre-for-brain-science/babylab), where I research the development of body awareness, self-recognition, and interoception using a combination of psychophysiological (e.g.; EEG/NIRS) and behavioural techniques.
+At the University of Essex, I am part of the [Essex Babylab] (https://www.essex.ac.uk/departments/psychology/facilities/centre-for-brain-science/babylab), where I research the development of bodily self-awareness, self-recognition, and interoception using a combination of psychophysiological (e.g.; EEG/NIRS) and behavioural techniques.
 

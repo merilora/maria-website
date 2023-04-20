@@ -3,7 +3,7 @@
 date = 2011-04-27T00:00:00
 
 # Project title.
-title = "Body awareness"
+title = "Bodily self-awareness"
 
 # Project summary to display on homepage.
 summary = "What makes your body your own?"
@@ -28,5 +28,4 @@ caption = ""
 
 +++
 
-What makes your body your own? How do babies learn to distinguish between their own and other people's bodies?
-The purpose of this research is to study how human beings develop an integrated sense of self that is grounded to a coherent body, and how different processes interact together to maintain and updated body awareness. While my work focuses on infancy and childhood, I am also interested in adults' body awareness.
+What makes your body your own? How do babies learn to distinguish between their own and other people’s bodies? The purpose of this research is to study how human beings develop an integrated sense of self that is grounded to a coherent body, and how different processes interact together to maintain and update bodily self-awareness.
