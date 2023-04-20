@@ -207,8 +207,8 @@ enableGitInfo = false
     #   3 = MLA
     publication_format = 2
     
- # Configuration of team pages.
-  [params.team]
+ # Configuration of teams pages.
+  [params.teams]
   # Number of team members shown per row.
   columns = "2"
   # Maximum number of team members shown (0 = all).
