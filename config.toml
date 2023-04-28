@@ -207,55 +207,6 @@ enableGitInfo = false
     #   3 = MLA
     publication_format = 2
     
-    [markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-  [markup.asciidoc]
-    [markup.asciidoc.attributes]
-      include = ["./layouts/partials/merge.html"]
-
- #Configuration of teams pages.
-  [[params.teams.member]]
-    name = "John Doe"
-    position = "Professor"
-    affiliation = "Researcher"
-    website = "https://example.com/johndoe"
-    twitter = "https://example.com/johndoe/twitter"
-    image = "/img/johndoe.jpg"
-  [[params.teams.member]]
-    name = "Jane Smith"
-    position = "Postdoc"
-    affiliation = "Researcher"
-    website = "https://example.com/janesmith"
-    twitter = "https://example.com/janesmith/twitter"
-    image = "/img/janesmith.jpg"
-
-  
-  # Number of team members shown per row.
-  #columns = ""
-  # Maximum number of team members shown (0 = all).
-  #max_entries = "0"
-  # Order that entries are displayed (ascending or descending; use `date` for chronological order).
-  #order = "asc"
-
-  # Social/Academic Networking
-  #
-  # Icon pack "fa" includes the following social network icons:
-  #
-  #   twitter, weibo, linkedin, github, facebook, pinterest, google-plus,
-  #   youtube, instagram, soundcloud
-  #
-  #   For email icon, use "fa" icon pack, "envelope" icon, and
-  #   "mailto:your@email.com" as the link.
-  #
-  #   Full list: https://fortawesome.github.io/Font-Awesome/icons/
-  #
-  # Icon pack "ai" includes the following academic network icons:
-  #
-  #   google-scholar, arxiv, orcid, researchgate, mendeley
-  #
-  #   Full list: https://jpswalsh.github.io/academicons/
 
   #[[params.social]]
     #icon = "envelope"
