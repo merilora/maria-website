@@ -4,7 +4,7 @@
 
 {{- if eq $params.layout "team" -}}
   {{- $page := index .Site.Pages (printf "%s/_index.md" $section) -}}
-  {{- $params = merge $params (dict "page" $page) -}}
+  {{- $params := merge $params (dict "page" $page) -}}
   {{- if $page -}}
     {{- partial $widget $params -}}
   {{- else -}}
@@ -12,7 +12,7 @@
   {{- end -}}
 {{- else -}}
   {{- if $page -}}
-    {{- $params = merge $params (dict "page" $page) -}}
+    {{- $params := merge $params (dict "page" $page) -}}
     {{- partial $widget $params -}}
   {{- else -}}
     {{- errorf "Unable to find page for widget_page shortcode: %s" $params.page -}}
