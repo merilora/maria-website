@@ -4,12 +4,10 @@ date = 2011-04-27T00:00:00
 # Team detail.
 title = "Caryn Cook"
 role = "PhD student"
+type = team_member
+
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = ""
-
-# Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["cook"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
