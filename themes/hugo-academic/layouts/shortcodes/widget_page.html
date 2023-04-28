@@ -1,4 +1,4 @@
-{{- $params := .Get 0 -}}
+{{- $params := .Get 0-}}
 {{- $widget := printf "widgets/%s.html" (or $params.widget "custom") -}}
 {{- $section := .Page.Section | lower -}}
 {{- $page := index .Site.Pages (printf "%s/%s.md" $section $params.page) -}}
