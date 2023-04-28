@@ -207,6 +207,14 @@ enableGitInfo = false
     #   3 = MLA
     publication_format = 2
     
+    [markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.asciidoc]
+    [markup.asciidoc.attributes]
+      include = ["./layouts/partials/merge.html"]
+
  #Configuration of teams pages.
   [[params.teams.member]]
     name = "John Doe"
