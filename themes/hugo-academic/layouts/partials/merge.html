@@ -1,9 +1,10 @@
 {{/* Define the merge function */}}
 {{- define "merge" -}}
-{{- $d := dict -}}
-{{- range $i, $m := . -}}
-{{- $d := $d | merge $m -}}
+  {{- $d := dict -}}
+  {{- range $m := . -}}
+    {{- $d = dict $d $m -}}
+  {{- end -}}
+  {{- $d -}}
 {{- end -}}
-{{- $d -}}
-{{- end -}}
+
 
