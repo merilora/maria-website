@@ -7,6 +7,10 @@
   {{- $page := index .Site.Pages (printf "%s/_index.md" $section) -}}
 {{- end -}}
 
+{{- $merge := dict "func" (printf "merge_%d" (now.UnixNano)) -}}
+{{- $define := printf "func %s(a, b) dict { return dict(a, b) }" $merge.func | dict -}}
+{{ $define | safeJS }}
+
 {{- $params := merge $params (dict "page" $page) -}}
 
 {{- if $page -}}
