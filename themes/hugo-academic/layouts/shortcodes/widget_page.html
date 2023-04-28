@@ -1,5 +1,6 @@
 {{- $params := .Get 0 -}}
 {{ $section := .Section }}
+{{ $page := index .Site.Pages (printf "%s/%s.md" $section $params.page) -}}
 
 {{- if eq $params.layout "team" -}}
   {{- $page := index .Site.Pages (printf "%s/_index.md" $section) -}}
