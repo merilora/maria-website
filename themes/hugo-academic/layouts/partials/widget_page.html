@@ -26,6 +26,9 @@
   {{ end }}
 {{ end }}
 
+{{ $widget := index $.Site.Data.widgets (printf "%s.html" .Get "widget") }}
+{{ partial $widget (dict "context" . "data" .Site.Data.widgets .Params ) }}
+
 <!-- Page Footer -->
 {{ partial "footer_container.html" . }}
 {{ partial "footer.html" . }}
