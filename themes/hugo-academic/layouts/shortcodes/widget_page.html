@@ -1,0 +1,16 @@
+{{- $params := .Get 0 -}}
+{{- $widget := printf "widgets/%s.html" (or $params.widget "custom") -}}
+{{- $section := .Page.Section | lower -}}
+{{- $page := index .Site.Pages (printf "%s/%s.md" $section $params.page) -}}
+
+{{- if eq $params.layout "team" -}}
+  {{- $page = index .Site.Pages (printf "%s/_index.md" $section) -}}
+{{- end -}}
+
+{{- $params := merge $params (dict "page" $page) -}}
+
+{{- if $page -}}
+  {{- partial $widget $params -}}
+{{- else -}}
+  {{- errorf "Unable to find page for widget_page shortcode: %s" $params.page -}}
+{{- end -}}
