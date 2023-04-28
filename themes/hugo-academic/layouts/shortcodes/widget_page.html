@@ -4,7 +4,7 @@
 {{- $page := index .Site.Pages (printf "%s/%s.md" $section $params.page) -}}
 
 {{- if eq $params.layout "team" -}}
-  {{- $page = index .Site.Pages (printf "%s/_index.md" $section) -}}
+  {{- $page := index .Site.Pages (printf "%s/_index.md" $section) -}}
 {{- end -}}
 
 {{- $params := merge $params (dict "page" $page) -}}
