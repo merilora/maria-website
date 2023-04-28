@@ -1,10 +1,13 @@
-+++
-team-member = "John Doe"
-position = "Professor"
-affiliation = "Researcher"
-website = "https://example.com/johndoe"
-twitter = "https://example.com/johndoe/twitter"
+---
+title: "Our Team"
+---
 
-widget_page_content = "teams"
-+++
+Welcome to our team page! Here at XYZ Company, we have a talented and diverse team of professionals dedicated to providing the best service possible to our clients.
+
+## Meet the Team
+
+- [John Smith](/teams/team-chawner/)
+- [Jane Doe](/teams/team-cook/)
+- [Bob Johnson](/teams/team-sepulveda/)
+
 
