@@ -208,8 +208,21 @@ enableGitInfo = false
     publication_format = 2
     
  #Configuration of teams pages.
-  [params.teams]
-  enable = true
+  [[params.teams.member]]
+    name = "John Doe"
+    position = "Professor"
+    affiliation = "Researcher"
+    website = "https://example.com/johndoe"
+    twitter = "https://example.com/johndoe/twitter"
+    image = "/img/johndoe.jpg"
+  [[params.teams.member]]
+    name = "Jane Smith"
+    position = "Postdoc"
+    affiliation = "Researcher"
+    website = "https://example.com/janesmith"
+    twitter = "https://example.com/janesmith/twitter"
+    image = "/img/janesmith.jpg"
+
   
   # Number of team members shown per row.
   #columns = ""
