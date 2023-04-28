@@ -1,11 +1,11 @@
-{{- $merge := .Site.Funcs "merge" -}}
-{{- $params := .Get 0 -}}
+{{ $widget := .Get "widget" }}
+{{ $params := .Get 0 }}
 {{ $section := .Section }}
-{{ $page := index .Site.Pages (printf "%s/%s.md" $section $params.page) -}}
+{{ $page := index .Site.Pages (printf "%s/%s.md" $section $params.page) }}
 
 {{- if eq $params.layout "team" -}}
   {{- $page := index .Site.Pages (printf "%s/_index.md" $section) -}}
-  {{- $params := $merge $params (dict "page" $page) -}}
+  {{- $params := merge $params (dict "page" $page) -}}
   {{- if $page -}}
     {{- partial $widget $params -}}
   {{- else -}}
@@ -13,7 +13,7 @@
   {{- end -}}
 {{- else -}}
   {{- if $page -}}
-    {{- $params := $merge $params (dict "page" $page) -}}
+    {{- $params := merge $params (dict "page" $page) -}}
     {{- partial $widget $params -}}
   {{- else -}}
     {{- errorf "Unable to find page for widget_page shortcode: %s" $params.page -}}
