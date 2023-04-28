@@ -1,3 +1,5 @@
+{{- $params := .Get 0 -}}
+
 {{- if eq $params.layout "team" -}}
   {{- $page := index .Site.Pages (printf "%s/_index.md" $section) -}}
   {{- $params = merge $params (dict "page" $page) -}}
