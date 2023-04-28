@@ -211,11 +211,11 @@ enableGitInfo = false
   [params.teams]
   list_children = true
   # Number of team members shown per row.
-  columns = ""
+  #columns = ""
   # Maximum number of team members shown (0 = all).
-  max_entries = "0"
+  #max_entries = "0"
   # Order that entries are displayed (ascending or descending; use `date` for chronological order).
-  order = "asc"
+  #order = "asc"
 
   # Social/Academic Networking
   #

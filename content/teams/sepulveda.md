@@ -3,6 +3,11 @@ title = "Rita Sepulveda"
 role = "Research Assistant"
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = ""
+
+# Tags: can be used for filtering projects.
+# Example: `tags = ["machine-learning", "deep-learning"]`
+tags = ["sepulveda"]
+
 # Optional external URL for project (replaces project detail page).
 external_link = ""
 
