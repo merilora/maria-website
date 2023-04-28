@@ -209,7 +209,7 @@ enableGitInfo = false
     
  #Configuration of teams pages.
   [params.teams]
-  list_children = false
+  enable = true
   
   # Number of team members shown per row.
   #columns = ""
