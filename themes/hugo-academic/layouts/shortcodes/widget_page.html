@@ -1,12 +1,16 @@
-{{- $merge := dict "func" (printf "merge_%d" (now.UnixNano)) -}}
-{{- $define := printf "func %s(a, b) dict { return dict(a, b) }" $merge.func | dict -}}
-{{ $define | safeJS }}
-
-{{- $params := call $merge.func $params (dict "page" $page) -}}
-
-{{- if $page -}}
-  {{- partial $widget $params -}}
+{{- if eq $params.layout "team" -}}
+  {{- $page := index .Site.Pages (printf "%s/_index.md" $section) -}}
+  {{- $params = merge $params (dict "page" $page) -}}
+  {{- if $page -}}
+    {{- partial $widget $params -}}
+  {{- else -}}
+    {{- errorf "Unable to find page for widget_page shortcode: %s" $params.page -}}
+  {{- end -}}
 {{- else -}}
-  {{- errorf "Unable to find page for widget_page shortcode: %s" $params.page -}}
+  {{- if $page -}}
+    {{- $params = merge $params (dict "page" $page) -}}
+    {{- partial $widget $params -}}
+  {{- else -}}
+    {{- errorf "Unable to find page for widget_page shortcode: %s" $params.page -}}
+  {{- end -}}
 {{- end -}}
-
