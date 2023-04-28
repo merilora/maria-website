@@ -1,3 +1,5 @@
+{{/* Include the merge partial */}}
+{{- partial "merge.html" . -}}
 {{ $params := merge $params (dict "page" $page) }}
 {{ $widget := .Get "widget" }}
 {{ $params := .Get 0 }}
